@@ -18,7 +18,7 @@ Este repositorio incluye notebooks y scripts que puedes ejecutar para replicar e
 
 - **README.md:** Esta documentación.
 - **ventas_cafeteria.csv:** el dataset (transacciones de un restaurante local).
-- **notebooks/**: Notebooks Jupyter con el análisis detallado.
+- **Analisis_con_estadistica.ipynb**: Google colab con el análisis detallado.
 
 ## Descripción del csv
 
