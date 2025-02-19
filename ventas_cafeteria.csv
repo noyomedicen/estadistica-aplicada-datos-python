@@ -1,0 +1,1001 @@
+id_pedido,fecha,nombre_articulo,tipo_articulo,precio_articulo,cantidad,monto_transaccion,tipo_transaccion,recibido_por,hora_venta
+1,07-03-2022,Tostadas,Comida rápida,20,13,260,,Hombre,Noche
+2,8/23/2022,Mini hamburguesa,Comida rápida,20,15,300,Efectivo,Hombre,Tarde
+3,11/20/2022,Mini hamburguesa,Comida rápida,20,1,20,Efectivo,Hombre,Tarde
+4,02-03-2023,Jugo natural,Bebidas,25,6,150,En línea,Hombre,Noche
+5,10-02-2022,Jugo natural,Bebidas,25,8,200,En línea,Hombre,Atardecer
+6,11/14/2022,Mini hamburguesa,Comida rápida,20,10,200,Efectivo,Hombre,Atardecer
+7,05-03-2022,Jugo natural,Bebidas,25,9,225,Efectivo,Hombre,Atardecer
+8,12/22/2022,Empanada,Comida rápida,20,14,280,En línea,Hombre,Noche
+9,06-10-2022,Empanada,Comida rápida,20,1,20,Efectivo,Mujer,Mañana
+10,9/16/2022,Empanada,Comida rápida,20,5,100,En línea,Hombre,Tarde
+11,12-01-2022,Hamburguesa clasica,Comida rápida,50,8,400,En línea,Mujer,Tarde
+12,07-12-2022,Mini hamburguesa,Comida rápida,20,8,160,En línea,Mujer,Noche
+13,12/22/2022,Empanada,Comida rápida,20,9,180,En línea,Mujer,Tarde
+14,11/25/2022,Hamburguesa clasica,Comida rápida,50,4,200,En línea,Hombre,Mañana
+15,02-03-2023,Tostadas,Comida rápida,20,3,60,Efectivo,Mujer,Atardecer
+16,4/14/2022,Sándwich,Comida rápida,60,11,660,,Mujer,Medianoche
+17,10/16/2022,Empanada,Comida rápida,20,11,220,Efectivo,Mujer,Mañana
+18,11-05-2022,Empanada,Comida rápida,20,10,200,Efectivo,Mujer,Noche
+19,8/22/2022,Empanada,Comida rápida,20,11,220,Efectivo,Mujer,Noche
+20,9/15/2022,Café frío,Bebidas,40,10,400,En línea,Hombre,Noche
+21,12/21/2022,Café frío,Bebidas,40,15,600,Efectivo,Hombre,Atardecer
+22,10-04-2022,Jugo natural,Bebidas,25,12,300,En línea,Hombre,Atardecer
+23,5/26/2022,Sándwich,Comida rápida,60,3,180,En línea,Hombre,Medianoche
+24,02-11-2023,Jugo natural,Bebidas,25,10,250,En línea,Hombre,Tarde
+25,8/31/2022,Sándwich,Comida rápida,60,1,60,En línea,Mujer,Atardecer
+26,8/18/2022,Jugo natural,Bebidas,25,4,100,Efectivo,Hombre,Tarde
+27,10-12-2022,Café frío,Bebidas,40,11,440,En línea,Mujer,Tarde
+28,01-06-2023,Café frío,Bebidas,40,10,400,En línea,Mujer,Tarde
+29,02-10-2023,Jugo natural,Bebidas,25,9,225,En línea,Hombre,Tarde
+30,1/28/2023,Hamburguesa clasica,Comida rápida,50,2,100,Efectivo,Mujer,Noche
+31,9/14/2022,Café frío,Bebidas,40,13,520,En línea,Mujer,Atardecer
+32,05-06-2022,Tostadas,Comida rápida,20,4,80,,Hombre,Mañana
+33,02-05-2023,Tostadas,Comida rápida,20,13,260,En línea,Hombre,Noche
+34,02-04-2023,Hamburguesa clasica,Comida rápida,50,12,600,En línea,Mujer,Atardecer
+35,5/22/2022,Mini hamburguesa,Comida rápida,20,8,160,Efectivo,Hombre,Mañana
+36,07-02-2022,Café frío,Bebidas,40,10,400,En línea,Hombre,Tarde
+37,01-05-2023,Hamburguesa clasica,Comida rápida,50,10,500,Efectivo,Hombre,Noche
+38,03-08-2023,Empanada,Comida rápida,20,12,240,En línea,Mujer,Noche
+39,5/14/2022,Mini hamburguesa,Comida rápida,20,2,40,En línea,Hombre,Atardecer
+40,02-05-2023,Sándwich,Comida rápida,60,5,300,En línea,Mujer,Noche
+41,11/13/2022,Café frío,Bebidas,40,11,440,,Hombre,Tarde
+42,05-09-2022,Tostadas,Comida rápida,20,8,160,En línea,Mujer,Noche
+43,5/26/2022,Mini hamburguesa,Comida rápida,20,1,20,Efectivo,Hombre,Noche
+44,8/28/2022,Café frío,Bebidas,40,12,480,Efectivo,Hombre,Atardecer
+45,8/15/2022,Jugo natural,Bebidas,25,6,150,Efectivo,Mujer,Tarde
+46,05-07-2022,Mini hamburguesa,Comida rápida,20,7,140,Efectivo,Hombre,Atardecer
+47,07-10-2022,Sándwich,Comida rápida,60,7,420,,Hombre,Mañana
+48,2/23/2023,Sándwich,Comida rápida,60,14,840,En línea,Hombre,Tarde
+49,11-06-2022,Hamburguesa clasica,Comida rápida,50,4,200,En línea,Mujer,Mañana
+50,11-02-2022,Mini hamburguesa,Comida rápida,20,8,160,Efectivo,Mujer,Medianoche
+51,5/16/2022,Hamburguesa clasica,Comida rápida,50,15,750,En línea,Mujer,Mañana
+52,3/16/2023,Jugo natural,Bebidas,25,12,300,Efectivo,Mujer,Medianoche
+53,7/26/2022,Tostadas,Comida rápida,20,13,260,Efectivo,Hombre,Tarde
+54,12/28/2022,Empanada,Comida rápida,20,14,280,En línea,Mujer,Mañana
+55,05-07-2022,Sándwich,Comida rápida,60,10,600,Efectivo,Hombre,Noche
+56,11/23/2022,Empanada,Comida rápida,20,11,220,Efectivo,Mujer,Medianoche
+57,08-04-2022,Empanada,Comida rápida,20,14,280,En línea,Mujer,Mañana
+58,02-03-2023,Mini hamburguesa,Comida rápida,20,6,120,En línea,Mujer,Mañana
+59,07-01-2022,Mini hamburguesa,Comida rápida,20,5,100,Efectivo,Hombre,Mañana
+60,06-11-2022,Café frío,Bebidas,40,2,80,En línea,Hombre,Noche
+61,12/25/2022,Mini hamburguesa,Comida rápida,20,14,280,Efectivo,Mujer,Tarde
+62,10/17/2022,Jugo natural,Bebidas,25,3,75,Efectivo,Hombre,Tarde
+63,12-01-2022,Sándwich,Comida rápida,60,7,420,En línea,Mujer,Mañana
+64,12-09-2022,Café frío,Bebidas,40,1,40,Efectivo,Hombre,Mañana
+65,7/25/2022,Tostadas,Comida rápida,20,4,80,Efectivo,Hombre,Mañana
+66,04-05-2022,Hamburguesa clasica,Comida rápida,50,2,100,Efectivo,Mujer,Mañana
+67,5/15/2022,Tostadas,Comida rápida,20,9,180,Efectivo,Hombre,Medianoche
+68,12/17/2022,Café frío,Bebidas,40,2,80,,Hombre,Noche
+69,01-10-2023,Mini hamburguesa,Comida rápida,20,7,140,Efectivo,Hombre,Medianoche
+70,05-09-2022,Café frío,Bebidas,40,14,560,,Mujer,Mañana
+71,12-05-2022,Café frío,Bebidas,40,6,240,En línea,Hombre,Noche
+72,03-09-2023,Hamburguesa clasica,Comida rápida,50,13,650,En línea,Hombre,Tarde
+73,7/29/2022,Empanada,Comida rápida,20,5,100,Efectivo,Hombre,Medianoche
+74,8/15/2022,Café frío,Bebidas,40,10,400,En línea,Mujer,Atardecer
+75,02-02-2023,Café frío,Bebidas,40,6,240,En línea,Mujer,Tarde
+76,8/17/2022,Mini hamburguesa,Comida rápida,20,9,180,En línea,Hombre,Mañana
+77,02-04-2023,Jugo natural,Bebidas,25,12,300,Efectivo,Mujer,Medianoche
+78,10-01-2022,Mini hamburguesa,Comida rápida,20,4,80,Efectivo,Mujer,Atardecer
+79,11-05-2022,Empanada,Comida rápida,20,6,120,En línea,Hombre,Noche
+80,5/24/2022,Hamburguesa clasica,Comida rápida,50,13,650,Efectivo,Hombre,Atardecer
+81,11/19/2022,Hamburguesa clasica,Comida rápida,50,12,600,En línea,Mujer,Noche
+82,7/17/2022,Hamburguesa clasica,Comida rápida,50,3,150,En línea,Mujer,Atardecer
+83,11/13/2022,Hamburguesa clasica,Comida rápida,50,11,550,,Hombre,Atardecer
+84,03-03-2023,Empanada,Comida rápida,20,13,260,Efectivo,Hombre,Medianoche
+85,8/19/2022,Tostadas,Comida rápida,20,3,60,En línea,Mujer,Noche
+86,03-09-2023,Tostadas,Comida rápida,20,15,300,Efectivo,Hombre,Mañana
+87,5/29/2022,Tostadas,Comida rápida,20,8,160,Efectivo,Hombre,Noche
+88,07-07-2022,Café frío,Bebidas,40,10,400,Efectivo,Hombre,Atardecer
+89,12/23/2022,Tostadas,Comida rápida,20,14,280,Efectivo,Hombre,Atardecer
+90,10/29/2022,Mini hamburguesa,Comida rápida,20,15,300,En línea,Hombre,Noche
+91,3/22/2023,Café frío,Bebidas,40,6,240,,Mujer,Atardecer
+92,5/13/2022,Tostadas,Comida rápida,20,15,300,Efectivo,Hombre,Tarde
+93,07-03-2022,Café frío,Bebidas,40,2,80,En línea,Mujer,Medianoche
+94,9/14/2022,Tostadas,Comida rápida,20,15,300,,Mujer,Noche
+95,05-12-2022,Jugo natural,Bebidas,25,8,200,En línea,Hombre,Noche
+96,8/22/2022,Sándwich,Comida rápida,60,15,900,,Hombre,Mañana
+97,3/29/2023,Café frío,Bebidas,40,13,520,En línea,Hombre,Atardecer
+98,12/24/2022,Mini hamburguesa,Comida rápida,20,1,20,En línea,Hombre,Mañana
+99,09-11-2022,Jugo natural,Bebidas,25,3,75,Efectivo,Hombre,Atardecer
+100,05-08-2022,Empanada,Comida rápida,20,11,220,,Hombre,Mañana
+101,3/26/2023,Mini hamburguesa,Comida rápida,20,3,60,En línea,Mujer,Mañana
+102,3/13/2023,Café frío,Bebidas,40,14,560,Efectivo,Hombre,Mañana
+103,3/14/2023,Café frío,Bebidas,40,8,320,En línea,Mujer,Medianoche
+104,10/27/2022,Café frío,Bebidas,40,13,520,En línea,Hombre,Mañana
+105,1/25/2023,Empanada,Comida rápida,20,8,160,Efectivo,Mujer,Atardecer
+106,2/25/2023,Hamburguesa clasica,Comida rápida,50,9,450,Efectivo,Mujer,Atardecer
+107,02-07-2023,Sándwich,Comida rápida,60,4,240,En línea,Hombre,Tarde
+108,08-06-2022,Empanada,Comida rápida,20,5,100,En línea,Hombre,Tarde
+109,08-08-2022,Café frío,Bebidas,40,12,480,,Hombre,Tarde
+110,11/16/2022,Empanada,Comida rápida,20,2,40,En línea,Mujer,Mañana
+111,09-04-2022,Sándwich,Comida rápida,60,8,480,Efectivo,Mujer,Medianoche
+112,2/24/2023,Sándwich,Comida rápida,60,7,420,Efectivo,Hombre,Mañana
+113,12-12-2022,Tostadas,Comida rápida,20,8,160,Efectivo,Hombre,Tarde
+114,8/14/2022,Tostadas,Comida rápida,20,10,200,En línea,Hombre,Tarde
+115,01-12-2023,Tostadas,Comida rápida,20,13,260,,Hombre,Atardecer
+116,8/26/2022,Jugo natural,Bebidas,25,13,325,Efectivo,Hombre,Atardecer
+117,03-09-2023,Hamburguesa clasica,Comida rápida,50,7,350,En línea,Mujer,Atardecer
+118,07-06-2022,Sándwich,Comida rápida,60,1,60,En línea,Hombre,Medianoche
+119,05-12-2022,Empanada,Comida rápida,20,10,200,Efectivo,Hombre,Atardecer
+120,07-10-2022,Hamburguesa clasica,Comida rápida,50,2,100,Efectivo,Mujer,Atardecer
+121,8/26/2022,Café frío,Bebidas,40,8,320,Efectivo,Hombre,Tarde
+122,4/24/2022,Empanada,Comida rápida,20,3,60,,Mujer,Noche
+123,06-09-2022,Café frío,Bebidas,40,6,240,En línea,Hombre,Atardecer
+124,10/14/2022,Jugo natural,Bebidas,25,13,325,,Mujer,Atardecer
+125,04-10-2022,Mini hamburguesa,Comida rápida,20,7,140,Efectivo,Mujer,Medianoche
+126,04-08-2022,Empanada,Comida rápida,20,11,220,En línea,Mujer,Noche
+127,12-03-2022,Tostadas,Comida rápida,20,1,20,,Mujer,Mañana
+128,08-07-2022,Mini hamburguesa,Comida rápida,20,11,220,En línea,Hombre,Medianoche
+129,10/19/2022,Empanada,Comida rápida,20,13,260,Efectivo,Mujer,Mañana
+130,12/28/2022,Jugo natural,Bebidas,25,7,175,Efectivo,Hombre,Noche
+131,1/19/2023,Sándwich,Comida rápida,60,8,480,Efectivo,Hombre,Noche
+132,12-05-2022,Mini hamburguesa,Comida rápida,20,4,80,En línea,Mujer,Noche
+133,12/20/2022,Tostadas,Comida rápida,20,5,100,En línea,Hombre,Medianoche
+134,7/17/2022,Tostadas,Comida rápida,20,12,240,En línea,Mujer,Noche
+135,1/14/2023,Tostadas,Comida rápida,20,8,160,En línea,Hombre,Medianoche
+136,8/24/2022,Tostadas,Comida rápida,20,15,300,En línea,Hombre,Mañana
+137,3/19/2023,Jugo natural,Bebidas,25,6,150,,Hombre,Tarde
+138,09-01-2022,Sándwich,Comida rápida,60,15,900,En línea,Hombre,Noche
+139,2/26/2023,Hamburguesa clasica,Comida rápida,50,11,550,En línea,Mujer,Noche
+140,06-12-2022,Hamburguesa clasica,Comida rápida,50,13,650,Efectivo,Hombre,Noche
+141,6/15/2022,Tostadas,Comida rápida,20,4,80,,Hombre,Atardecer
+142,12/30/2022,Jugo natural,Bebidas,25,12,300,Efectivo,Mujer,Mañana
+143,9/18/2022,Hamburguesa clasica,Comida rápida,50,8,400,,Mujer,Tarde
+144,11/17/2022,Empanada,Comida rápida,20,10,200,Efectivo,Mujer,Atardecer
+145,10-09-2022,Sándwich,Comida rápida,60,14,840,En línea,Hombre,Mañana
+146,10/28/2022,Hamburguesa clasica,Comida rápida,50,4,200,,Mujer,Tarde
+147,5/17/2022,Empanada,Comida rápida,20,7,140,En línea,Hombre,Atardecer
+148,3/19/2023,Sándwich,Comida rápida,60,13,780,En línea,Hombre,Atardecer
+149,08-09-2022,Sándwich,Comida rápida,60,7,420,En línea,Hombre,Mañana
+150,1/30/2023,Café frío,Bebidas,40,14,560,Efectivo,Hombre,Tarde
+151,07-10-2022,Hamburguesa clasica,Comida rápida,50,13,650,En línea,Mujer,Mañana
+152,10/24/2022,Café frío,Bebidas,40,9,360,En línea,Hombre,Tarde
+153,7/21/2022,Empanada,Comida rápida,20,1,20,Efectivo,Mujer,Atardecer
+154,12/13/2022,Mini hamburguesa,Comida rápida,20,3,60,Efectivo,Hombre,Noche
+155,02-07-2023,Jugo natural,Bebidas,25,10,250,Efectivo,Mujer,Atardecer
+156,3/25/2023,Empanada,Comida rápida,20,14,280,Efectivo,Hombre,Medianoche
+157,2/24/2023,Hamburguesa clasica,Comida rápida,50,7,350,En línea,Mujer,Medianoche
+158,5/16/2022,Tostadas,Comida rápida,20,2,40,,Hombre,Medianoche
+159,10-03-2022,Jugo natural,Bebidas,25,1,25,En línea,Mujer,Tarde
+160,7/23/2022,Mini hamburguesa,Comida rápida,20,10,200,En línea,Hombre,Noche
+161,1/19/2023,Jugo natural,Bebidas,25,12,300,Efectivo,Hombre,Atardecer
+162,05-07-2022,Tostadas,Comida rápida,20,11,220,Efectivo,Hombre,Medianoche
+163,01-06-2023,Hamburguesa clasica,Comida rápida,50,6,300,En línea,Mujer,Medianoche
+164,08-10-2022,Jugo natural,Bebidas,25,7,175,En línea,Hombre,Tarde
+165,01-05-2023,Sándwich,Comida rápida,60,11,660,Efectivo,Hombre,Medianoche
+166,06-01-2022,Empanada,Comida rápida,20,6,120,Efectivo,Mujer,Atardecer
+167,2/23/2023,Café frío,Bebidas,40,6,240,Efectivo,Mujer,Mañana
+168,4/19/2022,Sándwich,Comida rápida,60,4,240,Efectivo,Mujer,Medianoche
+169,6/20/2022,Mini hamburguesa,Comida rápida,20,6,120,Efectivo,Hombre,Mañana
+170,2/13/2023,Tostadas,Comida rápida,20,6,120,,Mujer,Tarde
+171,03-02-2023,Mini hamburguesa,Comida rápida,20,11,220,Efectivo,Mujer,Medianoche
+172,8/27/2022,Jugo natural,Bebidas,25,6,150,En línea,Mujer,Noche
+173,1/20/2023,Café frío,Bebidas,40,2,80,En línea,Hombre,Noche
+174,09-03-2022,Tostadas,Comida rápida,20,2,40,En línea,Hombre,Atardecer
+175,10/17/2022,Hamburguesa clasica,Comida rápida,50,12,600,Efectivo,Mujer,Tarde
+176,08-04-2022,Empanada,Comida rápida,20,1,20,Efectivo,Mujer,Medianoche
+177,7/21/2022,Empanada,Comida rápida,20,11,220,En línea,Mujer,Mañana
+178,12-09-2022,Tostadas,Comida rápida,20,2,40,Efectivo,Mujer,Mañana
+179,03-03-2023,Jugo natural,Bebidas,25,5,125,,Mujer,Medianoche
+180,12-01-2022,Mini hamburguesa,Comida rápida,20,6,120,En línea,Mujer,Tarde
+181,06-09-2022,Café frío,Bebidas,40,7,280,Efectivo,Mujer,Noche
+182,07-02-2022,Café frío,Bebidas,40,1,40,Efectivo,Hombre,Medianoche
+183,07-10-2022,Jugo natural,Bebidas,25,5,125,Efectivo,Mujer,Medianoche
+184,01-03-2023,Café frío,Bebidas,40,8,320,Efectivo,Hombre,Noche
+185,1/13/2023,Jugo natural,Bebidas,25,15,375,,Hombre,Noche
+186,3/15/2023,Hamburguesa clasica,Comida rápida,50,2,100,En línea,Hombre,Tarde
+187,10-11-2022,Tostadas,Comida rápida,20,15,300,Efectivo,Mujer,Mañana
+188,12/28/2022,Empanada,Comida rápida,20,14,280,Efectivo,Mujer,Noche
+189,02-08-2023,Mini hamburguesa,Comida rápida,20,12,240,En línea,Hombre,Tarde
+190,4/26/2022,Café frío,Bebidas,40,1,40,En línea,Hombre,Atardecer
+191,5/20/2022,Jugo natural,Bebidas,25,14,350,Efectivo,Mujer,Mañana
+192,10/26/2022,Mini hamburguesa,Comida rápida,20,2,40,En línea,Hombre,Noche
+193,02-05-2023,Café frío,Bebidas,40,15,600,En línea,Mujer,Medianoche
+194,12/15/2022,Mini hamburguesa,Comida rápida,20,4,80,Efectivo,Mujer,Mañana
+195,4/23/2022,Sándwich,Comida rápida,60,4,240,Efectivo,Mujer,Noche
+196,6/25/2022,Sándwich,Comida rápida,60,3,180,Efectivo,Hombre,Atardecer
+197,11-08-2022,Empanada,Comida rápida,20,10,200,Efectivo,Mujer,Medianoche
+198,01-05-2023,Hamburguesa clasica,Comida rápida,50,15,750,Efectivo,Hombre,Mañana
+199,02-01-2023,Hamburguesa clasica,Comida rápida,50,6,300,En línea,Mujer,Mañana
+200,12/25/2022,Café frío,Bebidas,40,10,400,Efectivo,Mujer,Mañana
+201,6/30/2022,Empanada,Comida rápida,20,8,160,Efectivo,Hombre,Mañana
+202,9/21/2022,Tostadas,Comida rápida,20,9,180,Efectivo,Hombre,Tarde
+203,04-11-2022,Mini hamburguesa,Comida rápida,20,6,120,En línea,Mujer,Medianoche
+204,10/24/2022,Café frío,Bebidas,40,7,280,Efectivo,Mujer,Atardecer
+205,10/17/2022,Mini hamburguesa,Comida rápida,20,4,80,,Hombre,Tarde
+206,7/27/2022,Tostadas,Comida rápida,20,4,80,Efectivo,Hombre,Noche
+207,2/20/2023,Café frío,Bebidas,40,8,320,En línea,Mujer,Atardecer
+208,8/26/2022,Café frío,Bebidas,40,13,520,Efectivo,Mujer,Medianoche
+209,12-04-2022,Tostadas,Comida rápida,20,2,40,Efectivo,Hombre,Noche
+210,01-02-2023,Jugo natural,Bebidas,25,15,375,,Hombre,Noche
+211,4/18/2022,Tostadas,Comida rápida,20,12,240,Efectivo,Hombre,Mañana
+212,05-05-2022,Café frío,Bebidas,40,12,480,En línea,Mujer,Mañana
+213,9/29/2022,Mini hamburguesa,Comida rápida,20,3,60,,Mujer,Medianoche
+214,12-03-2022,Jugo natural,Bebidas,25,14,350,En línea,Hombre,Atardecer
+215,12-10-2022,Jugo natural,Bebidas,25,7,175,,Mujer,Mañana
+216,03-07-2023,Empanada,Comida rápida,20,9,180,Efectivo,Mujer,Tarde
+217,3/23/2023,Café frío,Bebidas,40,10,400,Efectivo,Hombre,Mañana
+218,12/23/2022,Café frío,Bebidas,40,13,520,En línea,Mujer,Medianoche
+219,10-01-2022,Tostadas,Comida rápida,20,9,180,Efectivo,Mujer,Atardecer
+220,5/13/2022,Jugo natural,Bebidas,25,1,25,Efectivo,Hombre,Tarde
+221,3/26/2023,Sándwich,Comida rápida,60,1,60,En línea,Hombre,Atardecer
+222,09-11-2022,Sándwich,Comida rápida,60,6,360,Efectivo,Mujer,Mañana
+223,9/21/2022,Empanada,Comida rápida,20,13,260,En línea,Hombre,Noche
+224,3/23/2023,Jugo natural,Bebidas,25,14,350,Efectivo,Hombre,Tarde
+225,3/16/2023,Hamburguesa clasica,Comida rápida,50,11,550,Efectivo,Mujer,Atardecer
+226,12-12-2022,Tostadas,Comida rápida,20,13,260,En línea,Mujer,Tarde
+227,11/17/2022,Café frío,Bebidas,40,5,200,Efectivo,Mujer,Tarde
+228,11-05-2022,Empanada,Comida rápida,20,8,160,En línea,Hombre,Noche
+229,12/15/2022,Empanada,Comida rápida,20,7,140,,Hombre,Atardecer
+230,4/16/2022,Hamburguesa clasica,Comida rápida,50,6,300,En línea,Hombre,Tarde
+231,4/16/2022,Jugo natural,Bebidas,25,3,75,,Hombre,Noche
+232,4/23/2022,Mini hamburguesa,Comida rápida,20,13,260,Efectivo,Mujer,Noche
+233,7/31/2022,Empanada,Comida rápida,20,5,100,Efectivo,Hombre,Mañana
+234,7/27/2022,Empanada,Comida rápida,20,10,200,Efectivo,Hombre,Medianoche
+235,11/29/2022,Sándwich,Comida rápida,60,10,600,Efectivo,Mujer,Tarde
+236,6/26/2022,Mini hamburguesa,Comida rápida,20,12,240,,Mujer,Atardecer
+237,11-08-2022,Empanada,Comida rápida,20,13,260,Efectivo,Mujer,Medianoche
+238,4/26/2022,Mini hamburguesa,Comida rápida,20,13,260,Efectivo,Hombre,Mañana
+239,12-04-2022,Hamburguesa clasica,Comida rápida,50,4,200,En línea,Hombre,Atardecer
+240,12-11-2022,Sándwich,Comida rápida,60,10,600,Efectivo,Mujer,Mañana
+241,06-06-2022,Jugo natural,Bebidas,25,2,50,Efectivo,Hombre,Tarde
+242,12/23/2022,Café frío,Bebidas,40,4,160,En línea,Mujer,Medianoche
+243,11-12-2022,Empanada,Comida rápida,20,5,100,Efectivo,Mujer,Medianoche
+244,11/22/2022,Sándwich,Comida rápida,60,10,600,En línea,Mujer,Medianoche
+245,10-03-2022,Mini hamburguesa,Comida rápida,20,2,40,Efectivo,Mujer,Mañana
+246,11/16/2022,Mini hamburguesa,Comida rápida,20,10,200,Efectivo,Hombre,Tarde
+247,10-03-2022,Jugo natural,Bebidas,25,6,150,,Hombre,Medianoche
+248,4/17/2022,Hamburguesa clasica,Comida rápida,50,5,250,En línea,Mujer,Medianoche
+249,10/26/2022,Jugo natural,Bebidas,25,3,75,En línea,Mujer,Tarde
+250,11/15/2022,Jugo natural,Bebidas,25,6,150,En línea,Mujer,Medianoche
+251,12/21/2022,Café frío,Bebidas,40,13,520,,Mujer,Tarde
+252,3/26/2023,Mini hamburguesa,Comida rápida,20,8,160,En línea,Hombre,Medianoche
+253,6/18/2022,Jugo natural,Bebidas,25,13,325,En línea,Hombre,Tarde
+254,10-09-2022,Café frío,Bebidas,40,12,480,,Mujer,Tarde
+255,4/30/2022,Mini hamburguesa,Comida rápida,20,7,140,,Mujer,Tarde
+256,3/16/2023,Tostadas,Comida rápida,20,3,60,En línea,Mujer,Medianoche
+257,01-03-2023,Sándwich,Comida rápida,60,10,600,Efectivo,Mujer,Medianoche
+258,09-06-2022,Mini hamburguesa,Comida rápida,20,14,280,Efectivo,Hombre,Medianoche
+259,11/18/2022,Sándwich,Comida rápida,60,4,240,En línea,Hombre,Mañana
+260,09-10-2022,Jugo natural,Bebidas,25,2,50,En línea,Mujer,Noche
+261,01-11-2023,Hamburguesa clasica,Comida rápida,50,9,450,Efectivo,Mujer,Medianoche
+262,03-05-2023,Mini hamburguesa,Comida rápida,20,5,100,,Mujer,Atardecer
+263,6/19/2022,Empanada,Comida rápida,20,2,40,Efectivo,Hombre,Atardecer
+264,7/18/2022,Jugo natural,Bebidas,25,12,300,En línea,Hombre,Mañana
+265,8/15/2022,Mini hamburguesa,Comida rápida,20,6,120,Efectivo,Hombre,Medianoche
+266,10-02-2022,Hamburguesa clasica,Comida rápida,50,10,500,En línea,Mujer,Noche
+267,03-05-2023,Mini hamburguesa,Comida rápida,20,1,20,Efectivo,Hombre,Mañana
+268,02-05-2023,Café frío,Bebidas,40,12,480,Efectivo,Mujer,Medianoche
+269,12/22/2022,Empanada,Comida rápida,20,2,40,,Mujer,Medianoche
+270,09-07-2022,Sándwich,Comida rápida,60,13,780,Efectivo,Hombre,Atardecer
+271,05-03-2022,Mini hamburguesa,Comida rápida,20,13,260,Efectivo,Hombre,Atardecer
+272,7/29/2022,Hamburguesa clasica,Comida rápida,50,5,250,En línea,Mujer,Noche
+273,8/15/2022,Empanada,Comida rápida,20,15,300,Efectivo,Hombre,Medianoche
+274,01-04-2023,Jugo natural,Bebidas,25,10,250,En línea,Hombre,Noche
+275,02-04-2023,Mini hamburguesa,Comida rápida,20,15,300,En línea,Hombre,Noche
+276,9/30/2022,Jugo natural,Bebidas,25,6,150,Efectivo,Hombre,Medianoche
+277,12-08-2022,Café frío,Bebidas,40,13,520,Efectivo,Mujer,Medianoche
+278,6/19/2022,Hamburguesa clasica,Comida rápida,50,6,300,En línea,Mujer,Noche
+279,9/14/2022,Mini hamburguesa,Comida rápida,20,15,300,Efectivo,Mujer,Tarde
+280,10-09-2022,Empanada,Comida rápida,20,14,280,En línea,Mujer,Atardecer
+281,08-09-2022,Sándwich,Comida rápida,60,3,180,Efectivo,Mujer,Tarde
+282,5/16/2022,Mini hamburguesa,Comida rápida,20,13,260,,Mujer,Mañana
+283,07-02-2022,Empanada,Comida rápida,20,2,40,Efectivo,Mujer,Medianoche
+284,1/29/2023,Hamburguesa clasica,Comida rápida,50,7,350,,Hombre,Tarde
+285,6/28/2022,Tostadas,Comida rápida,20,3,60,,Hombre,Noche
+286,12/14/2022,Mini hamburguesa,Comida rápida,20,6,120,,Hombre,Noche
+287,08-06-2022,Tostadas,Comida rápida,20,3,60,Efectivo,Hombre,Mañana
+288,8/22/2022,Sándwich,Comida rápida,60,7,420,Efectivo,Hombre,Noche
+289,11/28/2022,Tostadas,Comida rápida,20,7,140,En línea,Mujer,Medianoche
+290,05-03-2022,Empanada,Comida rápida,20,7,140,Efectivo,Mujer,Mañana
+291,1/27/2023,Hamburguesa clasica,Comida rápida,50,8,400,En línea,Mujer,Noche
+292,1/16/2023,Hamburguesa clasica,Comida rápida,50,2,100,Efectivo,Mujer,Medianoche
+293,4/21/2022,Empanada,Comida rápida,20,8,160,En línea,Mujer,Mañana
+294,9/23/2022,Tostadas,Comida rápida,20,1,20,Efectivo,Mujer,Atardecer
+295,7/21/2022,Sándwich,Comida rápida,60,7,420,Efectivo,Hombre,Medianoche
+296,02-06-2023,Empanada,Comida rápida,20,7,140,Efectivo,Mujer,Tarde
+297,4/30/2022,Sándwich,Comida rápida,60,10,600,En línea,Hombre,Atardecer
+298,7/19/2022,Jugo natural,Bebidas,25,9,225,Efectivo,Mujer,Tarde
+299,7/22/2022,Tostadas,Comida rápida,20,1,20,En línea,Mujer,Atardecer
+300,6/27/2022,Tostadas,Comida rápida,20,8,160,Efectivo,Hombre,Tarde
+301,1/28/2023,Empanada,Comida rápida,20,7,140,Efectivo,Hombre,Noche
+302,3/21/2023,Tostadas,Comida rápida,20,14,280,Efectivo,Hombre,Noche
+303,07-02-2022,Jugo natural,Bebidas,25,1,25,Efectivo,Mujer,Medianoche
+304,5/28/2022,Mini hamburguesa,Comida rápida,20,15,300,En línea,Hombre,Mañana
+305,03-05-2023,Empanada,Comida rápida,20,4,80,,Mujer,Mañana
+306,03-03-2023,Café frío,Bebidas,40,8,320,En línea,Mujer,Mañana
+307,2/13/2023,Mini hamburguesa,Comida rápida,20,8,160,Efectivo,Hombre,Atardecer
+308,12/17/2022,Sándwich,Comida rápida,60,13,780,En línea,Hombre,Atardecer
+309,10/14/2022,Sándwich,Comida rápida,60,8,480,En línea,Hombre,Atardecer
+310,4/25/2022,Mini hamburguesa,Comida rápida,20,4,80,Efectivo,Hombre,Tarde
+311,7/31/2022,Hamburguesa clasica,Comida rápida,50,7,350,,Mujer,Mañana
+312,12/28/2022,Café frío,Bebidas,40,1,40,Efectivo,Mujer,Noche
+313,4/19/2022,Café frío,Bebidas,40,1,40,Efectivo,Hombre,Medianoche
+314,2/27/2023,Hamburguesa clasica,Comida rápida,50,8,400,En línea,Mujer,Mañana
+315,2/20/2023,Café frío,Bebidas,40,13,520,En línea,Mujer,Tarde
+316,11-02-2022,Hamburguesa clasica,Comida rápida,50,4,200,En línea,Hombre,Mañana
+317,03-10-2023,Tostadas,Comida rápida,20,12,240,En línea,Mujer,Tarde
+318,12/21/2022,Tostadas,Comida rápida,20,10,200,En línea,Mujer,Medianoche
+319,6/30/2022,Hamburguesa clasica,Comida rápida,50,15,750,Efectivo,Hombre,Tarde
+320,3/18/2023,Jugo natural,Bebidas,25,7,175,Efectivo,Mujer,Tarde
+321,02-08-2023,Hamburguesa clasica,Comida rápida,50,12,600,Efectivo,Mujer,Atardecer
+322,05-05-2022,Café frío,Bebidas,40,11,440,Efectivo,Hombre,Mañana
+323,12/29/2022,Tostadas,Comida rápida,20,4,80,Efectivo,Hombre,Mañana
+324,7/18/2022,Jugo natural,Bebidas,25,15,375,En línea,Mujer,Noche
+325,03-02-2023,Tostadas,Comida rápida,20,12,240,,Mujer,Tarde
+326,05-03-2022,Sándwich,Comida rápida,60,8,480,Efectivo,Hombre,Atardecer
+327,11/29/2022,Hamburguesa clasica,Comida rápida,50,15,750,Efectivo,Mujer,Medianoche
+328,6/16/2022,Mini hamburguesa,Comida rápida,20,3,60,En línea,Hombre,Atardecer
+329,01-10-2023,Empanada,Comida rápida,20,7,140,En línea,Mujer,Tarde
+330,9/22/2022,Empanada,Comida rápida,20,8,160,,Hombre,Mañana
+331,8/21/2022,Empanada,Comida rápida,20,4,80,En línea,Mujer,Atardecer
+332,2/17/2023,Tostadas,Comida rápida,20,2,40,,Mujer,Tarde
+333,10/30/2022,Jugo natural,Bebidas,25,11,275,Efectivo,Mujer,Tarde
+334,04-04-2022,Café frío,Bebidas,40,4,160,Efectivo,Mujer,Atardecer
+335,10/24/2022,Café frío,Bebidas,40,11,440,Efectivo,Hombre,Noche
+336,09-03-2022,Jugo natural,Bebidas,25,13,325,,Mujer,Medianoche
+337,10/15/2022,Tostadas,Comida rápida,20,14,280,En línea,Mujer,Medianoche
+338,05-06-2022,Jugo natural,Bebidas,25,12,300,Efectivo,Hombre,Mañana
+339,2/16/2023,Jugo natural,Bebidas,25,1,25,,Mujer,Medianoche
+340,06-02-2022,Café frío,Bebidas,40,4,160,Efectivo,Mujer,Atardecer
+341,3/19/2023,Hamburguesa clasica,Comida rápida,50,9,450,Efectivo,Mujer,Atardecer
+342,03-11-2023,Mini hamburguesa,Comida rápida,20,7,140,En línea,Hombre,Tarde
+343,1/18/2023,Jugo natural,Bebidas,25,5,125,Efectivo,Hombre,Tarde
+344,5/13/2022,Café frío,Bebidas,40,14,560,Efectivo,Hombre,Noche
+345,05-09-2022,Empanada,Comida rápida,20,14,280,En línea,Mujer,Noche
+346,1/31/2023,Café frío,Bebidas,40,12,480,Efectivo,Hombre,Mañana
+347,6/24/2022,Hamburguesa clasica,Comida rápida,50,7,350,Efectivo,Mujer,Tarde
+348,9/19/2022,Mini hamburguesa,Comida rápida,20,1,20,En línea,Mujer,Medianoche
+349,8/17/2022,Empanada,Comida rápida,20,5,100,Efectivo,Mujer,Atardecer
+350,9/21/2022,Café frío,Bebidas,40,8,320,En línea,Mujer,Mañana
+351,07-08-2022,Hamburguesa clasica,Comida rápida,50,5,250,En línea,Mujer,Noche
+352,5/25/2022,Hamburguesa clasica,Comida rápida,50,11,550,Efectivo,Mujer,Noche
+353,5/18/2022,Mini hamburguesa,Comida rápida,20,4,80,En línea,Mujer,Medianoche
+354,1/16/2023,Empanada,Comida rápida,20,14,280,En línea,Hombre,Medianoche
+355,3/15/2023,Café frío,Bebidas,40,4,160,En línea,Hombre,Medianoche
+356,5/26/2022,Jugo natural,Bebidas,25,14,350,Efectivo,Mujer,Noche
+357,9/21/2022,Sándwich,Comida rápida,60,9,540,En línea,Mujer,Tarde
+358,10/27/2022,Tostadas,Comida rápida,20,6,120,Efectivo,Hombre,Noche
+359,8/27/2022,Tostadas,Comida rápida,20,13,260,En línea,Mujer,Noche
+360,10-06-2022,Café frío,Bebidas,40,2,80,En línea,Mujer,Medianoche
+361,6/30/2022,Sándwich,Comida rápida,60,15,900,,Mujer,Noche
+362,12/30/2022,Jugo natural,Bebidas,25,2,50,Efectivo,Hombre,Mañana
+363,05-09-2022,Hamburguesa clasica,Comida rápida,50,9,450,En línea,Hombre,Tarde
+364,10-11-2022,Café frío,Bebidas,40,2,80,En línea,Hombre,Noche
+365,07-08-2022,Empanada,Comida rápida,20,10,200,En línea,Hombre,Noche
+366,11/30/2022,Jugo natural,Bebidas,25,10,250,En línea,Mujer,Tarde
+367,08-10-2022,Empanada,Comida rápida,20,6,120,,Hombre,Tarde
+368,8/31/2022,Café frío,Bebidas,40,2,80,Efectivo,Hombre,Noche
+369,07-03-2022,Sándwich,Comida rápida,60,2,120,En línea,Mujer,Atardecer
+370,5/28/2022,Empanada,Comida rápida,20,5,100,,Mujer,Medianoche
+371,10/18/2022,Mini hamburguesa,Comida rápida,20,5,100,En línea,Mujer,Noche
+372,11/19/2022,Hamburguesa clasica,Comida rápida,50,12,600,,Hombre,Mañana
+373,05-08-2022,Jugo natural,Bebidas,25,12,300,Efectivo,Mujer,Medianoche
+374,7/24/2022,Hamburguesa clasica,Comida rápida,50,10,500,En línea,Hombre,Medianoche
+375,11/17/2022,Empanada,Comida rápida,20,13,260,Efectivo,Hombre,Atardecer
+376,12-04-2022,Hamburguesa clasica,Comida rápida,50,15,750,Efectivo,Hombre,Medianoche
+377,5/20/2022,Jugo natural,Bebidas,25,3,75,En línea,Mujer,Atardecer
+378,4/24/2022,Mini hamburguesa,Comida rápida,20,2,40,Efectivo,Mujer,Medianoche
+379,2/15/2023,Café frío,Bebidas,40,14,560,,Hombre,Tarde
+380,10/20/2022,Sándwich,Comida rápida,60,5,300,En línea,Mujer,Tarde
+381,2/26/2023,Mini hamburguesa,Comida rápida,20,1,20,En línea,Hombre,Mañana
+382,8/16/2022,Café frío,Bebidas,40,9,360,Efectivo,Mujer,Noche
+383,05-06-2022,Tostadas,Comida rápida,20,7,140,En línea,Mujer,Mañana
+384,10/22/2022,Jugo natural,Bebidas,25,1,25,En línea,Hombre,Tarde
+385,4/25/2022,Mini hamburguesa,Comida rápida,20,5,100,Efectivo,Hombre,Mañana
+386,11/23/2022,Hamburguesa clasica,Comida rápida,50,5,250,En línea,Hombre,Medianoche
+387,3/17/2023,Jugo natural,Bebidas,25,14,350,Efectivo,Mujer,Medianoche
+388,10-09-2022,Sándwich,Comida rápida,60,14,840,Efectivo,Hombre,Atardecer
+389,12/22/2022,Sándwich,Comida rápida,60,12,720,Efectivo,Mujer,Atardecer
+390,6/18/2022,Jugo natural,Bebidas,25,5,125,,Hombre,Medianoche
+391,4/21/2022,Tostadas,Comida rápida,20,1,20,En línea,Mujer,Noche
+392,9/18/2022,Tostadas,Comida rápida,20,15,300,En línea,Hombre,Noche
+393,07-02-2022,Jugo natural,Bebidas,25,10,250,En línea,Mujer,Atardecer
+394,04-03-2022,Sándwich,Comida rápida,60,1,60,Efectivo,Mujer,Mañana
+395,1/31/2023,Sándwich,Comida rápida,60,3,180,Efectivo,Mujer,Atardecer
+396,10/31/2022,Hamburguesa clasica,Comida rápida,50,15,750,En línea,Hombre,Mañana
+397,07-06-2022,Tostadas,Comida rápida,20,2,40,En línea,Mujer,Tarde
+398,1/13/2023,Empanada,Comida rápida,20,6,120,En línea,Hombre,Atardecer
+399,6/24/2022,Empanada,Comida rápida,20,9,180,Efectivo,Mujer,Atardecer
+400,03-04-2023,Café frío,Bebidas,40,15,600,Efectivo,Mujer,Mañana
+401,10-11-2022,Jugo natural,Bebidas,25,8,200,En línea,Mujer,Medianoche
+402,3/19/2023,Hamburguesa clasica,Comida rápida,50,7,350,Efectivo,Hombre,Noche
+403,9/25/2022,Café frío,Bebidas,40,3,120,En línea,Mujer,Medianoche
+404,11/26/2022,Hamburguesa clasica,Comida rápida,50,7,350,Efectivo,Mujer,Medianoche
+405,12/13/2022,Jugo natural,Bebidas,25,10,250,Efectivo,Hombre,Noche
+406,10/13/2022,Café frío,Bebidas,40,4,160,En línea,Mujer,Tarde
+407,01-02-2023,Jugo natural,Bebidas,25,2,50,Efectivo,Hombre,Atardecer
+408,10-05-2022,Mini hamburguesa,Comida rápida,20,4,80,En línea,Hombre,Medianoche
+409,9/15/2022,Tostadas,Comida rápida,20,9,180,Efectivo,Mujer,Mañana
+410,11/23/2022,Tostadas,Comida rápida,20,15,300,En línea,Hombre,Tarde
+411,11/20/2022,Empanada,Comida rápida,20,12,240,Efectivo,Hombre,Tarde
+412,03-09-2023,Jugo natural,Bebidas,25,14,350,,Hombre,Tarde
+413,04-03-2022,Tostadas,Comida rápida,20,10,200,En línea,Mujer,Medianoche
+414,1/21/2023,Café frío,Bebidas,40,13,520,,Hombre,Noche
+415,12-05-2022,Mini hamburguesa,Comida rápida,20,8,160,En línea,Hombre,Atardecer
+416,08-05-2022,Sándwich,Comida rápida,60,9,540,,Hombre,Mañana
+417,1/16/2023,Empanada,Comida rápida,20,3,60,Efectivo,Hombre,Atardecer
+418,11-12-2022,Café frío,Bebidas,40,7,280,En línea,Hombre,Noche
+419,10-08-2022,Jugo natural,Bebidas,25,14,350,,Mujer,Medianoche
+420,1/30/2023,Hamburguesa clasica,Comida rápida,50,13,650,En línea,Mujer,Atardecer
+421,3/24/2023,Café frío,Bebidas,40,2,80,En línea,Hombre,Medianoche
+422,08-02-2022,Café frío,Bebidas,40,7,280,En línea,Hombre,Atardecer
+423,10/21/2022,Hamburguesa clasica,Comida rápida,50,7,350,Efectivo,Mujer,Noche
+424,4/21/2022,Jugo natural,Bebidas,25,9,225,En línea,Mujer,Medianoche
+425,8/17/2022,Empanada,Comida rápida,20,14,280,En línea,Hombre,Tarde
+426,1/20/2023,Hamburguesa clasica,Comida rápida,50,14,700,Efectivo,Hombre,Medianoche
+427,5/21/2022,Sándwich,Comida rápida,60,2,120,En línea,Hombre,Tarde
+428,12/24/2022,Jugo natural,Bebidas,25,8,200,En línea,Hombre,Tarde
+429,9/19/2022,Café frío,Bebidas,40,3,120,En línea,Hombre,Noche
+430,11-05-2022,Sándwich,Comida rápida,60,4,240,En línea,Hombre,Noche
+431,3/16/2023,Empanada,Comida rápida,20,6,120,En línea,Hombre,Atardecer
+432,3/27/2023,Empanada,Comida rápida,20,6,120,En línea,Hombre,Tarde
+433,5/27/2022,Empanada,Comida rápida,20,14,280,En línea,Mujer,Atardecer
+434,8/21/2022,Tostadas,Comida rápida,20,12,240,Efectivo,Hombre,Mañana
+435,05-08-2022,Sándwich,Comida rápida,60,1,60,Efectivo,Mujer,Tarde
+436,01-05-2023,Hamburguesa clasica,Comida rápida,50,10,500,Efectivo,Hombre,Medianoche
+437,8/31/2022,Café frío,Bebidas,40,1,40,,Hombre,Mañana
+438,6/20/2022,Café frío,Bebidas,40,5,200,En línea,Hombre,Mañana
+439,9/30/2022,Hamburguesa clasica,Comida rápida,50,13,650,En línea,Hombre,Tarde
+440,11/28/2022,Tostadas,Comida rápida,20,7,140,Efectivo,Hombre,Tarde
+441,11-02-2022,Tostadas,Comida rápida,20,1,20,En línea,Mujer,Medianoche
+442,8/22/2022,Jugo natural,Bebidas,25,7,175,En línea,Mujer,Noche
+443,09-05-2022,Jugo natural,Bebidas,25,12,300,Efectivo,Mujer,Noche
+444,9/28/2022,Hamburguesa clasica,Comida rápida,50,4,200,,Hombre,Atardecer
+445,10/22/2022,Sándwich,Comida rápida,60,14,840,En línea,Mujer,Mañana
+446,8/31/2022,Café frío,Bebidas,40,9,360,Efectivo,Hombre,Noche
+447,1/17/2023,Hamburguesa clasica,Comida rápida,50,6,300,En línea,Mujer,Tarde
+448,7/27/2022,Mini hamburguesa,Comida rápida,20,6,120,Efectivo,Mujer,Atardecer
+449,09-09-2022,Hamburguesa clasica,Comida rápida,50,4,200,Efectivo,Hombre,Tarde
+450,5/20/2022,Jugo natural,Bebidas,25,1,25,En línea,Hombre,Mañana
+451,3/15/2023,Jugo natural,Bebidas,25,10,250,Efectivo,Mujer,Medianoche
+452,12/25/2022,Hamburguesa clasica,Comida rápida,50,5,250,En línea,Hombre,Tarde
+453,10/20/2022,Sándwich,Comida rápida,60,1,60,En línea,Mujer,Medianoche
+454,03-07-2023,Sándwich,Comida rápida,60,1,60,En línea,Mujer,Atardecer
+455,03-01-2023,Café frío,Bebidas,40,11,440,Efectivo,Hombre,Medianoche
+456,12/31/2022,Café frío,Bebidas,40,13,520,,Mujer,Noche
+457,10/16/2022,Café frío,Bebidas,40,11,440,Efectivo,Hombre,Atardecer
+458,09-12-2022,Jugo natural,Bebidas,25,8,200,Efectivo,Mujer,Medianoche
+459,06-08-2022,Mini hamburguesa,Comida rápida,20,14,280,Efectivo,Hombre,Noche
+460,11/20/2022,Tostadas,Comida rápida,20,2,40,Efectivo,Hombre,Mañana
+461,7/22/2022,Jugo natural,Bebidas,25,5,125,Efectivo,Hombre,Medianoche
+462,4/24/2022,Mini hamburguesa,Comida rápida,20,3,60,Efectivo,Hombre,Mañana
+463,06-11-2022,Sándwich,Comida rápida,60,6,360,En línea,Hombre,Medianoche
+464,10/18/2022,Jugo natural,Bebidas,25,13,325,Efectivo,Hombre,Mañana
+465,1/15/2023,Jugo natural,Bebidas,25,12,300,En línea,Hombre,Atardecer
+466,01-11-2023,Empanada,Comida rápida,20,6,120,Efectivo,Hombre,Atardecer
+467,10/17/2022,Tostadas,Comida rápida,20,11,220,En línea,Hombre,Mañana
+468,09-08-2022,Empanada,Comida rápida,20,2,40,Efectivo,Hombre,Atardecer
+469,5/15/2022,Sándwich,Comida rápida,60,7,420,En línea,Mujer,Mañana
+470,9/29/2022,Mini hamburguesa,Comida rápida,20,8,160,Efectivo,Mujer,Mañana
+471,2/13/2023,Empanada,Comida rápida,20,7,140,Efectivo,Mujer,Tarde
+472,01-11-2023,Empanada,Comida rápida,20,10,200,,Hombre,Medianoche
+473,09-04-2022,Sándwich,Comida rápida,60,5,300,Efectivo,Mujer,Atardecer
+474,8/28/2022,Jugo natural,Bebidas,25,15,375,Efectivo,Mujer,Noche
+475,2/24/2023,Café frío,Bebidas,40,6,240,Efectivo,Mujer,Noche
+476,02-02-2023,Tostadas,Comida rápida,20,10,200,Efectivo,Hombre,Mañana
+477,2/13/2023,Sándwich,Comida rápida,60,15,900,Efectivo,Mujer,Medianoche
+478,12/27/2022,Jugo natural,Bebidas,25,9,225,Efectivo,Mujer,Tarde
+479,2/13/2023,Sándwich,Comida rápida,60,11,660,Efectivo,Mujer,Tarde
+480,10-02-2022,Mini hamburguesa,Comida rápida,20,12,240,Efectivo,Hombre,Atardecer
+481,10/29/2022,Jugo natural,Bebidas,25,4,100,Efectivo,Hombre,Atardecer
+482,1/31/2023,Tostadas,Comida rápida,20,1,20,En línea,Hombre,Tarde
+483,4/27/2022,Empanada,Comida rápida,20,9,180,Efectivo,Mujer,Mañana
+484,3/21/2023,Café frío,Bebidas,40,5,200,Efectivo,Mujer,Tarde
+485,2/26/2023,Tostadas,Comida rápida,20,6,120,Efectivo,Mujer,Medianoche
+486,2/14/2023,Mini hamburguesa,Comida rápida,20,6,120,Efectivo,Mujer,Medianoche
+487,5/27/2022,Sándwich,Comida rápida,60,9,540,Efectivo,Mujer,Medianoche
+488,9/21/2022,Café frío,Bebidas,40,10,400,Efectivo,Hombre,Medianoche
+489,02-03-2023,Hamburguesa clasica,Comida rápida,50,13,650,En línea,Mujer,Atardecer
+490,12/26/2022,Café frío,Bebidas,40,8,320,Efectivo,Hombre,Mañana
+491,5/31/2022,Mini hamburguesa,Comida rápida,20,2,40,En línea,Mujer,Medianoche
+492,07-11-2022,Sándwich,Comida rápida,60,15,900,Efectivo,Hombre,Tarde
+493,10-02-2022,Café frío,Bebidas,40,2,80,En línea,Hombre,Mañana
+494,1/14/2023,Café frío,Bebidas,40,10,400,Efectivo,Mujer,Noche
+495,10/20/2022,Tostadas,Comida rápida,20,13,260,En línea,Mujer,Medianoche
+496,11-07-2022,Café frío,Bebidas,40,10,400,En línea,Mujer,Noche
+497,1/25/2023,Sándwich,Comida rápida,60,7,420,Efectivo,Hombre,Medianoche
+498,6/16/2022,Hamburguesa clasica,Comida rápida,50,1,50,Efectivo,Hombre,Medianoche
+499,7/27/2022,Sándwich,Comida rápida,60,8,480,En línea,Mujer,Atardecer
+500,04-08-2022,Mini hamburguesa,Comida rápida,20,4,80,En línea,Mujer,Medianoche
+501,08-09-2022,Jugo natural,Bebidas,25,14,350,En línea,Mujer,Tarde
+502,01-04-2023,Empanada,Comida rápida,20,13,260,En línea,Hombre,Noche
+503,11-04-2022,Tostadas,Comida rápida,20,13,260,Efectivo,Mujer,Mañana
+504,12-09-2022,Café frío,Bebidas,40,8,320,Efectivo,Hombre,Atardecer
+505,02-12-2023,Hamburguesa clasica,Comida rápida,50,4,200,Efectivo,Hombre,Noche
+506,12/26/2022,Café frío,Bebidas,40,12,480,Efectivo,Mujer,Medianoche
+507,12/14/2022,Tostadas,Comida rápida,20,14,280,En línea,Mujer,Mañana
+508,12-10-2022,Sándwich,Comida rápida,60,1,60,Efectivo,Hombre,Noche
+509,10/26/2022,Mini hamburguesa,Comida rápida,20,11,220,En línea,Hombre,Atardecer
+510,04-04-2022,Sándwich,Comida rápida,60,14,840,En línea,Hombre,Tarde
+511,08-02-2022,Empanada,Comida rápida,20,4,80,Efectivo,Mujer,Noche
+512,01-11-2023,Empanada,Comida rápida,20,3,60,Efectivo,Mujer,Tarde
+513,7/16/2022,Café frío,Bebidas,40,5,200,Efectivo,Mujer,Noche
+514,8/24/2022,Café frío,Bebidas,40,8,320,En línea,Mujer,Atardecer
+515,11-02-2022,Sándwich,Comida rápida,60,7,420,,Mujer,Noche
+516,9/22/2022,Jugo natural,Bebidas,25,12,300,En línea,Mujer,Medianoche
+517,07-02-2022,Empanada,Comida rápida,20,13,260,En línea,Hombre,Atardecer
+518,12-09-2022,Tostadas,Comida rápida,20,6,120,Efectivo,Mujer,Mañana
+519,11/25/2022,Café frío,Bebidas,40,10,400,Efectivo,Hombre,Mañana
+520,04-03-2022,Empanada,Comida rápida,20,11,220,En línea,Mujer,Noche
+521,1/27/2023,Empanada,Comida rápida,20,14,280,En línea,Hombre,Mañana
+522,12/29/2022,Empanada,Comida rápida,20,13,260,Efectivo,Mujer,Medianoche
+523,11-03-2022,Hamburguesa clasica,Comida rápida,50,6,300,Efectivo,Hombre,Tarde
+524,05-01-2022,Tostadas,Comida rápida,20,13,260,En línea,Hombre,Tarde
+525,05-04-2022,Mini hamburguesa,Comida rápida,20,3,60,Efectivo,Hombre,Medianoche
+526,07-04-2022,Sándwich,Comida rápida,60,10,600,Efectivo,Mujer,Atardecer
+527,01-06-2023,Jugo natural,Bebidas,25,6,150,Efectivo,Mujer,Tarde
+528,07-01-2022,Jugo natural,Bebidas,25,7,175,Efectivo,Mujer,Medianoche
+529,5/15/2022,Tostadas,Comida rápida,20,12,240,,Mujer,Tarde
+530,7/27/2022,Empanada,Comida rápida,20,6,120,Efectivo,Mujer,Noche
+531,10-04-2022,Café frío,Bebidas,40,10,400,Efectivo,Hombre,Noche
+532,3/27/2023,Empanada,Comida rápida,20,13,260,En línea,Mujer,Medianoche
+533,02-05-2023,Hamburguesa clasica,Comida rápida,50,2,100,,Mujer,Noche
+534,5/16/2022,Mini hamburguesa,Comida rápida,20,2,40,En línea,Mujer,Noche
+535,09-05-2022,Sándwich,Comida rápida,60,4,240,En línea,Hombre,Medianoche
+536,03-01-2023,Jugo natural,Bebidas,25,7,175,Efectivo,Mujer,Atardecer
+537,1/25/2023,Empanada,Comida rápida,20,3,60,Efectivo,Hombre,Atardecer
+538,06-05-2022,Empanada,Comida rápida,20,7,140,En línea,Hombre,Mañana
+539,09-07-2022,Empanada,Comida rápida,20,3,60,En línea,Hombre,Atardecer
+540,5/27/2022,Mini hamburguesa,Comida rápida,20,13,260,Efectivo,Hombre,Tarde
+541,7/30/2022,Empanada,Comida rápida,20,12,240,Efectivo,Hombre,Noche
+542,08-04-2022,Jugo natural,Bebidas,25,9,225,Efectivo,Hombre,Atardecer
+543,04-10-2022,Tostadas,Comida rápida,20,15,300,Efectivo,Mujer,Atardecer
+544,12/14/2022,Sándwich,Comida rápida,60,15,900,En línea,Mujer,Mañana
+545,01-01-2023,Sándwich,Comida rápida,60,13,780,En línea,Mujer,Medianoche
+546,07-09-2022,Tostadas,Comida rápida,20,1,20,Efectivo,Mujer,Medianoche
+547,5/14/2022,Café frío,Bebidas,40,10,400,En línea,Hombre,Mañana
+548,3/29/2023,Café frío,Bebidas,40,14,560,Efectivo,Hombre,Tarde
+549,4/15/2022,Jugo natural,Bebidas,25,3,75,En línea,Hombre,Tarde
+550,11/15/2022,Café frío,Bebidas,40,15,600,En línea,Hombre,Tarde
+551,7/30/2022,Jugo natural,Bebidas,25,7,175,Efectivo,Hombre,Atardecer
+552,09-12-2022,Jugo natural,Bebidas,25,15,375,Efectivo,Mujer,Medianoche
+553,11-11-2022,Empanada,Comida rápida,20,14,280,Efectivo,Hombre,Atardecer
+554,03-09-2023,Empanada,Comida rápida,20,4,80,Efectivo,Mujer,Tarde
+555,4/16/2022,Sándwich,Comida rápida,60,6,360,Efectivo,Mujer,Atardecer
+556,2/27/2023,Mini hamburguesa,Comida rápida,20,9,180,Efectivo,Mujer,Noche
+557,6/30/2022,Sándwich,Comida rápida,60,2,120,Efectivo,Mujer,Atardecer
+558,10-01-2022,Empanada,Comida rápida,20,5,100,En línea,Hombre,Mañana
+559,8/31/2022,Café frío,Bebidas,40,5,200,En línea,Mujer,Noche
+560,12-10-2022,Jugo natural,Bebidas,25,1,25,Efectivo,Hombre,Atardecer
+561,6/13/2022,Empanada,Comida rápida,20,1,20,Efectivo,Mujer,Medianoche
+562,08-09-2022,Hamburguesa clasica,Comida rápida,50,4,200,Efectivo,Hombre,Tarde
+563,10/13/2022,Hamburguesa clasica,Comida rápida,50,7,350,En línea,Mujer,Atardecer
+564,9/27/2022,Café frío,Bebidas,40,2,80,,Hombre,Mañana
+565,9/27/2022,Empanada,Comida rápida,20,15,300,Efectivo,Hombre,Atardecer
+566,7/19/2022,Hamburguesa clasica,Comida rápida,50,3,150,Efectivo,Hombre,Atardecer
+567,10/16/2022,Café frío,Bebidas,40,7,280,En línea,Mujer,Tarde
+568,12/29/2022,Empanada,Comida rápida,20,12,240,,Mujer,Tarde
+569,01-02-2023,Café frío,Bebidas,40,15,600,En línea,Mujer,Medianoche
+570,9/15/2022,Jugo natural,Bebidas,25,4,100,Efectivo,Hombre,Mañana
+571,11/28/2022,Jugo natural,Bebidas,25,1,25,Efectivo,Mujer,Atardecer
+572,04-02-2022,Sándwich,Comida rápida,60,15,900,Efectivo,Hombre,Tarde
+573,09-07-2022,Hamburguesa clasica,Comida rápida,50,2,100,Efectivo,Hombre,Tarde
+574,10/22/2022,Tostadas,Comida rápida,20,1,20,Efectivo,Mujer,Noche
+575,12/24/2022,Mini hamburguesa,Comida rápida,20,1,20,En línea,Mujer,Medianoche
+576,3/23/2023,Empanada,Comida rápida,20,12,240,Efectivo,Mujer,Tarde
+577,09-06-2022,Café frío,Bebidas,40,7,280,Efectivo,Hombre,Atardecer
+578,6/30/2022,Hamburguesa clasica,Comida rápida,50,5,250,En línea,Mujer,Noche
+579,4/27/2022,Empanada,Comida rápida,20,2,40,Efectivo,Hombre,Atardecer
+580,07-01-2022,Empanada,Comida rápida,20,10,200,En línea,Hombre,Noche
+581,4/23/2022,Jugo natural,Bebidas,25,13,325,Efectivo,Hombre,Tarde
+582,05-12-2022,Tostadas,Comida rápida,20,13,260,Efectivo,Hombre,Mañana
+583,5/31/2022,Hamburguesa clasica,Comida rápida,50,8,400,Efectivo,Hombre,Noche
+584,12-04-2022,Café frío,Bebidas,40,15,600,Efectivo,Hombre,Mañana
+585,03-05-2023,Mini hamburguesa,Comida rápida,20,11,220,Efectivo,Mujer,Mañana
+586,5/22/2022,Sándwich,Comida rápida,60,15,900,En línea,Hombre,Noche
+587,04-09-2022,Tostadas,Comida rápida,20,10,200,Efectivo,Mujer,Noche
+588,6/16/2022,Hamburguesa clasica,Comida rápida,50,11,550,Efectivo,Mujer,Mañana
+589,8/25/2022,Café frío,Bebidas,40,5,200,Efectivo,Hombre,Noche
+590,3/27/2023,Empanada,Comida rápida,20,15,300,En línea,Hombre,Medianoche
+591,10-01-2022,Sándwich,Comida rápida,60,13,780,Efectivo,Mujer,Mañana
+592,12-04-2022,Jugo natural,Bebidas,25,7,175,Efectivo,Hombre,Mañana
+593,2/16/2023,Jugo natural,Bebidas,25,9,225,Efectivo,Mujer,Atardecer
+594,1/20/2023,Hamburguesa clasica,Comida rápida,50,6,300,Efectivo,Mujer,Mañana
+595,2/22/2023,Hamburguesa clasica,Comida rápida,50,9,450,En línea,Hombre,Tarde
+596,4/26/2022,Café frío,Bebidas,40,1,40,En línea,Mujer,Noche
+597,11/30/2022,Empanada,Comida rápida,20,10,200,En línea,Hombre,Medianoche
+598,08-02-2022,Café frío,Bebidas,40,8,320,Efectivo,Mujer,Tarde
+599,10-03-2022,Hamburguesa clasica,Comida rápida,50,13,650,Efectivo,Hombre,Mañana
+600,12/24/2022,Empanada,Comida rápida,20,6,120,Efectivo,Mujer,Mañana
+601,11-01-2022,Tostadas,Comida rápida,20,12,240,En línea,Hombre,Mañana
+602,8/27/2022,Tostadas,Comida rápida,20,10,200,Efectivo,Hombre,Noche
+603,8/31/2022,Mini hamburguesa,Comida rápida,20,10,200,Efectivo,Mujer,Tarde
+604,09-08-2022,Hamburguesa clasica,Comida rápida,50,10,500,Efectivo,Mujer,Noche
+605,04-04-2022,Café frío,Bebidas,40,15,600,,Mujer,Tarde
+606,04-09-2022,Café frío,Bebidas,40,6,240,Efectivo,Mujer,Noche
+607,12/15/2022,Mini hamburguesa,Comida rápida,20,9,180,Efectivo,Mujer,Tarde
+608,2/28/2023,Tostadas,Comida rápida,20,1,20,En línea,Hombre,Medianoche
+609,02-07-2023,Tostadas,Comida rápida,20,14,280,,Hombre,Medianoche
+610,05-08-2022,Hamburguesa clasica,Comida rápida,50,13,650,En línea,Mujer,Atardecer
+611,6/25/2022,Tostadas,Comida rápida,20,2,40,En línea,Mujer,Mañana
+612,02-06-2023,Tostadas,Comida rápida,20,3,60,En línea,Hombre,Medianoche
+613,06-10-2022,Mini hamburguesa,Comida rápida,20,5,100,En línea,Mujer,Noche
+614,12/19/2022,Mini hamburguesa,Comida rápida,20,2,40,,Hombre,Mañana
+615,8/14/2022,Sándwich,Comida rápida,60,14,840,,Hombre,Mañana
+616,7/15/2022,Mini hamburguesa,Comida rápida,20,6,120,En línea,Mujer,Medianoche
+617,6/28/2022,Jugo natural,Bebidas,25,2,50,Efectivo,Hombre,Noche
+618,04-08-2022,Hamburguesa clasica,Comida rápida,50,1,50,En línea,Hombre,Atardecer
+619,09-09-2022,Jugo natural,Bebidas,25,4,100,Efectivo,Mujer,Mañana
+620,9/14/2022,Empanada,Comida rápida,20,12,240,En línea,Mujer,Atardecer
+621,2/13/2023,Tostadas,Comida rápida,20,2,40,En línea,Mujer,Atardecer
+622,12/14/2022,Empanada,Comida rápida,20,13,260,En línea,Hombre,Tarde
+623,04-02-2022,Café frío,Bebidas,40,15,600,Efectivo,Hombre,Medianoche
+624,03-08-2023,Sándwich,Comida rápida,60,9,540,Efectivo,Mujer,Mañana
+625,6/17/2022,Sándwich,Comida rápida,60,15,900,En línea,Hombre,Mañana
+626,02-01-2023,Café frío,Bebidas,40,15,600,Efectivo,Hombre,Noche
+627,6/22/2022,Jugo natural,Bebidas,25,15,375,En línea,Hombre,Tarde
+628,05-02-2022,Café frío,Bebidas,40,10,400,,Mujer,Noche
+629,1/20/2023,Jugo natural,Bebidas,25,9,225,Efectivo,Mujer,Atardecer
+630,5/27/2022,Hamburguesa clasica,Comida rápida,50,7,350,,Mujer,Mañana
+631,07-01-2022,Café frío,Bebidas,40,13,520,Efectivo,Mujer,Atardecer
+632,10/28/2022,Empanada,Comida rápida,20,9,180,En línea,Mujer,Noche
+633,5/24/2022,Café frío,Bebidas,40,3,120,En línea,Hombre,Atardecer
+634,7/26/2022,Empanada,Comida rápida,20,13,260,Efectivo,Hombre,Tarde
+635,02-06-2023,Mini hamburguesa,Comida rápida,20,15,300,En línea,Mujer,Noche
+636,4/26/2022,Café frío,Bebidas,40,12,480,,Hombre,Mañana
+637,5/14/2022,Tostadas,Comida rápida,20,7,140,Efectivo,Hombre,Medianoche
+638,8/20/2022,Café frío,Bebidas,40,11,440,En línea,Mujer,Tarde
+639,1/26/2023,Mini hamburguesa,Comida rápida,20,14,280,Efectivo,Mujer,Mañana
+640,01-04-2023,Sándwich,Comida rápida,60,15,900,En línea,Hombre,Noche
+641,02-09-2023,Mini hamburguesa,Comida rápida,20,15,300,Efectivo,Hombre,Tarde
+642,05-09-2022,Café frío,Bebidas,40,10,400,En línea,Mujer,Mañana
+643,10/20/2022,Jugo natural,Bebidas,25,2,50,Efectivo,Hombre,Tarde
+644,02-03-2023,Empanada,Comida rápida,20,5,100,En línea,Mujer,Atardecer
+645,7/26/2022,Sándwich,Comida rápida,60,9,540,Efectivo,Mujer,Noche
+646,8/30/2022,Mini hamburguesa,Comida rápida,20,14,280,En línea,Mujer,Tarde
+647,06-05-2022,Mini hamburguesa,Comida rápida,20,3,60,Efectivo,Hombre,Tarde
+648,5/27/2022,Sándwich,Comida rápida,60,7,420,Efectivo,Hombre,Noche
+649,11-05-2022,Hamburguesa clasica,Comida rápida,50,9,450,Efectivo,Hombre,Medianoche
+650,04-07-2022,Sándwich,Comida rápida,60,13,780,En línea,Mujer,Mañana
+651,07-11-2022,Sándwich,Comida rápida,60,10,600,En línea,Mujer,Medianoche
+652,5/21/2022,Café frío,Bebidas,40,13,520,En línea,Mujer,Tarde
+653,5/30/2022,Hamburguesa clasica,Comida rápida,50,10,500,En línea,Mujer,Medianoche
+654,03-04-2023,Mini hamburguesa,Comida rápida,20,9,180,Efectivo,Mujer,Mañana
+655,6/30/2022,Jugo natural,Bebidas,25,12,300,En línea,Hombre,Mañana
+656,11/28/2022,Sándwich,Comida rápida,60,6,360,En línea,Mujer,Medianoche
+657,01-10-2023,Café frío,Bebidas,40,7,280,,Hombre,Medianoche
+658,10-10-2022,Tostadas,Comida rápida,20,12,240,,Mujer,Tarde
+659,1/21/2023,Empanada,Comida rápida,20,2,40,En línea,Hombre,Tarde
+660,7/25/2022,Sándwich,Comida rápida,60,9,540,Efectivo,Mujer,Noche
+661,10-11-2022,Hamburguesa clasica,Comida rápida,50,7,350,En línea,Mujer,Medianoche
+662,2/15/2023,Empanada,Comida rápida,20,3,60,En línea,Mujer,Tarde
+663,02-05-2023,Jugo natural,Bebidas,25,1,25,En línea,Hombre,Noche
+664,10/31/2022,Hamburguesa clasica,Comida rápida,50,10,500,En línea,Mujer,Mañana
+665,05-06-2022,Tostadas,Comida rápida,20,14,280,En línea,Mujer,Atardecer
+666,1/25/2023,Empanada,Comida rápida,20,9,180,Efectivo,Hombre,Atardecer
+667,9/28/2022,Mini hamburguesa,Comida rápida,20,3,60,Efectivo,Mujer,Atardecer
+668,05-11-2022,Tostadas,Comida rápida,20,4,80,En línea,Hombre,Mañana
+669,3/18/2023,Sándwich,Comida rápida,60,11,660,En línea,Hombre,Atardecer
+670,07-05-2022,Empanada,Comida rápida,20,15,300,Efectivo,Hombre,Noche
+671,10-09-2022,Sándwich,Comida rápida,60,2,120,En línea,Hombre,Tarde
+672,11/24/2022,Café frío,Bebidas,40,3,120,,Mujer,Atardecer
+673,9/17/2022,Sándwich,Comida rápida,60,12,720,Efectivo,Hombre,Medianoche
+674,7/17/2022,Jugo natural,Bebidas,25,13,325,,Hombre,Mañana
+675,4/17/2022,Sándwich,Comida rápida,60,12,720,Efectivo,Hombre,Noche
+676,05-04-2022,Hamburguesa clasica,Comida rápida,50,7,350,Efectivo,Mujer,Atardecer
+677,5/19/2022,Café frío,Bebidas,40,3,120,En línea,Mujer,Mañana
+678,5/23/2022,Tostadas,Comida rápida,20,3,60,En línea,Hombre,Atardecer
+679,11-02-2022,Sándwich,Comida rápida,60,12,720,En línea,Hombre,Mañana
+680,4/20/2022,Café frío,Bebidas,40,4,160,Efectivo,Hombre,Noche
+681,12-09-2022,Hamburguesa clasica,Comida rápida,50,9,450,En línea,Mujer,Noche
+682,10-11-2022,Tostadas,Comida rápida,20,14,280,En línea,Hombre,Medianoche
+683,08-12-2022,Hamburguesa clasica,Comida rápida,50,15,750,Efectivo,Hombre,Medianoche
+684,9/18/2022,Mini hamburguesa,Comida rápida,20,5,100,Efectivo,Hombre,Tarde
+685,5/20/2022,Tostadas,Comida rápida,20,3,60,Efectivo,Mujer,Tarde
+686,11/25/2022,Café frío,Bebidas,40,5,200,Efectivo,Hombre,Tarde
+687,12/18/2022,Mini hamburguesa,Comida rápida,20,10,200,Efectivo,Mujer,Medianoche
+688,5/14/2022,Hamburguesa clasica,Comida rápida,50,5,250,En línea,Hombre,Tarde
+689,8/13/2022,Mini hamburguesa,Comida rápida,20,6,120,Efectivo,Mujer,Tarde
+690,10-05-2022,Mini hamburguesa,Comida rápida,20,9,180,Efectivo,Mujer,Noche
+691,04-01-2022,Sándwich,Comida rápida,60,7,420,Efectivo,Mujer,Atardecer
+692,1/13/2023,Hamburguesa clasica,Comida rápida,50,14,700,En línea,Hombre,Tarde
+693,11/29/2022,Jugo natural,Bebidas,25,13,325,En línea,Mujer,Medianoche
+694,4/22/2022,Empanada,Comida rápida,20,14,280,Efectivo,Hombre,Medianoche
+695,8/24/2022,Empanada,Comida rápida,20,10,200,En línea,Mujer,Medianoche
+696,2/23/2023,Jugo natural,Bebidas,25,3,75,En línea,Mujer,Atardecer
+697,05-05-2022,Jugo natural,Bebidas,25,5,125,Efectivo,Hombre,Medianoche
+698,11/26/2022,Empanada,Comida rápida,20,10,200,En línea,Hombre,Noche
+699,09-09-2022,Café frío,Bebidas,40,1,40,En línea,Hombre,Atardecer
+700,11/15/2022,Hamburguesa clasica,Comida rápida,50,6,300,Efectivo,Mujer,Atardecer
+701,7/19/2022,Jugo natural,Bebidas,25,14,350,En línea,Mujer,Atardecer
+702,3/25/2023,Café frío,Bebidas,40,13,520,Efectivo,Mujer,Tarde
+703,11-01-2022,Empanada,Comida rápida,20,10,200,En línea,Mujer,Tarde
+704,8/14/2022,Sándwich,Comida rápida,60,1,60,En línea,Mujer,Atardecer
+705,10-07-2022,Sándwich,Comida rápida,60,6,360,En línea,Hombre,Atardecer
+706,02-05-2023,Hamburguesa clasica,Comida rápida,50,8,400,En línea,Hombre,Noche
+707,12/16/2022,Empanada,Comida rápida,20,2,40,En línea,Hombre,Noche
+708,3/15/2023,Sándwich,Comida rápida,60,5,300,Efectivo,Mujer,Medianoche
+709,2/22/2023,Café frío,Bebidas,40,6,240,Efectivo,Hombre,Mañana
+710,3/15/2023,Sándwich,Comida rápida,60,15,900,,Hombre,Noche
+711,10/30/2022,Tostadas,Comida rápida,20,3,60,Efectivo,Hombre,Tarde
+712,12/17/2022,Mini hamburguesa,Comida rápida,20,3,60,En línea,Mujer,Medianoche
+713,12-02-2022,Jugo natural,Bebidas,25,14,350,En línea,Mujer,Mañana
+714,12/14/2022,Jugo natural,Bebidas,25,14,350,Efectivo,Hombre,Tarde
+715,04-12-2022,Sándwich,Comida rápida,60,1,60,En línea,Hombre,Mañana
+716,12-03-2022,Empanada,Comida rápida,20,9,180,Efectivo,Mujer,Medianoche
+717,10-11-2022,Jugo natural,Bebidas,25,15,375,,Mujer,Atardecer
+718,12/28/2022,Tostadas,Comida rápida,20,2,40,En línea,Hombre,Tarde
+719,05-09-2022,Mini hamburguesa,Comida rápida,20,15,300,Efectivo,Mujer,Medianoche
+720,05-10-2022,Hamburguesa clasica,Comida rápida,50,14,700,Efectivo,Mujer,Mañana
+721,8/13/2022,Empanada,Comida rápida,20,12,240,,Hombre,Tarde
+722,9/14/2022,Mini hamburguesa,Comida rápida,20,15,300,,Hombre,Medianoche
+723,2/16/2023,Café frío,Bebidas,40,10,400,En línea,Hombre,Atardecer
+724,6/27/2022,Hamburguesa clasica,Comida rápida,50,10,500,Efectivo,Mujer,Noche
+725,07-04-2022,Mini hamburguesa,Comida rápida,20,6,120,En línea,Mujer,Tarde
+726,09-11-2022,Empanada,Comida rápida,20,1,20,En línea,Hombre,Mañana
+727,8/25/2022,Tostadas,Comida rápida,20,5,100,Efectivo,Mujer,Medianoche
+728,08-03-2022,Mini hamburguesa,Comida rápida,20,1,20,En línea,Hombre,Medianoche
+729,11/24/2022,Sándwich,Comida rápida,60,7,420,Efectivo,Hombre,Noche
+730,6/28/2022,Hamburguesa clasica,Comida rápida,50,13,650,Efectivo,Mujer,Tarde
+731,03-09-2023,Hamburguesa clasica,Comida rápida,50,10,500,Efectivo,Mujer,Tarde
+732,6/13/2022,Empanada,Comida rápida,20,7,140,,Mujer,Medianoche
+733,02-03-2023,Hamburguesa clasica,Comida rápida,50,10,500,Efectivo,Hombre,Atardecer
+734,10-07-2022,Hamburguesa clasica,Comida rápida,50,7,350,Efectivo,Hombre,Atardecer
+735,08-10-2022,Empanada,Comida rápida,20,11,220,Efectivo,Hombre,Mañana
+736,9/25/2022,Empanada,Comida rápida,20,13,260,,Hombre,Tarde
+737,9/20/2022,Hamburguesa clasica,Comida rápida,50,13,650,En línea,Mujer,Noche
+738,03-01-2023,Sándwich,Comida rápida,60,4,240,En línea,Mujer,Mañana
+739,06-06-2022,Tostadas,Comida rápida,20,11,220,En línea,Hombre,Noche
+740,7/30/2022,Tostadas,Comida rápida,20,9,180,Efectivo,Hombre,Medianoche
+741,7/16/2022,Tostadas,Comida rápida,20,5,100,En línea,Hombre,Tarde
+742,11/18/2022,Empanada,Comida rápida,20,14,280,En línea,Hombre,Noche
+743,11-09-2022,Empanada,Comida rápida,20,1,20,Efectivo,Hombre,Mañana
+744,6/25/2022,Hamburguesa clasica,Comida rápida,50,10,500,Efectivo,Mujer,Mañana
+745,09-11-2022,Tostadas,Comida rápida,20,2,40,En línea,Hombre,Atardecer
+746,08-05-2022,Jugo natural,Bebidas,25,5,125,En línea,Mujer,Medianoche
+747,1/14/2023,Café frío,Bebidas,40,3,120,Efectivo,Mujer,Medianoche
+748,9/20/2022,Sándwich,Comida rápida,60,14,840,Efectivo,Mujer,Noche
+749,8/31/2022,Mini hamburguesa,Comida rápida,20,11,220,Efectivo,Hombre,Mañana
+750,02-01-2023,Hamburguesa clasica,Comida rápida,50,1,50,En línea,Hombre,Atardecer
+751,9/16/2022,Mini hamburguesa,Comida rápida,20,2,40,Efectivo,Hombre,Tarde
+752,06-04-2022,Empanada,Comida rápida,20,2,40,En línea,Mujer,Mañana
+753,6/26/2022,Jugo natural,Bebidas,25,1,25,Efectivo,Hombre,Medianoche
+754,12/29/2022,Jugo natural,Bebidas,25,14,350,Efectivo,Mujer,Atardecer
+755,01-02-2023,Tostadas,Comida rápida,20,12,240,Efectivo,Mujer,Noche
+756,10/21/2022,Jugo natural,Bebidas,25,10,250,En línea,Mujer,Mañana
+757,12/25/2022,Jugo natural,Bebidas,25,11,275,En línea,Hombre,Mañana
+758,9/25/2022,Mini hamburguesa,Comida rápida,20,3,60,Efectivo,Mujer,Atardecer
+759,12/25/2022,Jugo natural,Bebidas,25,13,325,En línea,Hombre,Medianoche
+760,11/14/2022,Jugo natural,Bebidas,25,1,25,En línea,Mujer,Atardecer
+761,11-12-2022,Sándwich,Comida rápida,60,3,180,,Mujer,Medianoche
+762,04-09-2022,Mini hamburguesa,Comida rápida,20,12,240,En línea,Mujer,Medianoche
+763,07-04-2022,Mini hamburguesa,Comida rápida,20,14,280,,Mujer,Noche
+764,2/14/2023,Sándwich,Comida rápida,60,7,420,Efectivo,Mujer,Noche
+765,6/15/2022,Sándwich,Comida rápida,60,13,780,Efectivo,Hombre,Noche
+766,6/19/2022,Sándwich,Comida rápida,60,10,600,En línea,Mujer,Mañana
+767,2/26/2023,Hamburguesa clasica,Comida rápida,50,8,400,Efectivo,Mujer,Tarde
+768,01-12-2023,Sándwich,Comida rápida,60,14,840,Efectivo,Hombre,Tarde
+769,06-07-2022,Hamburguesa clasica,Comida rápida,50,8,400,Efectivo,Hombre,Mañana
+770,2/22/2023,Tostadas,Comida rápida,20,8,160,Efectivo,Mujer,Mañana
+771,8/15/2022,Empanada,Comida rápida,20,5,100,En línea,Mujer,Medianoche
+772,3/20/2023,Café frío,Bebidas,40,9,360,Efectivo,Hombre,Atardecer
+773,8/14/2022,Café frío,Bebidas,40,7,280,En línea,Hombre,Tarde
+774,3/15/2023,Mini hamburguesa,Comida rápida,20,1,20,En línea,Mujer,Noche
+775,3/27/2023,Sándwich,Comida rápida,60,6,360,Efectivo,Hombre,Noche
+776,02-07-2023,Hamburguesa clasica,Comida rápida,50,10,500,Efectivo,Hombre,Medianoche
+777,10/23/2022,Empanada,Comida rápida,20,13,260,Efectivo,Hombre,Mañana
+778,06-11-2022,Hamburguesa clasica,Comida rápida,50,13,650,Efectivo,Hombre,Atardecer
+779,1/16/2023,Sándwich,Comida rápida,60,13,780,,Hombre,Noche
+780,11/27/2022,Jugo natural,Bebidas,25,13,325,En línea,Mujer,Tarde
+781,5/27/2022,Tostadas,Comida rápida,20,10,200,En línea,Hombre,Medianoche
+782,12/16/2022,Tostadas,Comida rápida,20,5,100,En línea,Hombre,Noche
+783,4/29/2022,Tostadas,Comida rápida,20,8,160,Efectivo,Hombre,Mañana
+784,07-09-2022,Mini hamburguesa,Comida rápida,20,8,160,Efectivo,Mujer,Mañana
+785,12-07-2022,Tostadas,Comida rápida,20,2,40,En línea,Hombre,Tarde
+786,3/13/2023,Sándwich,Comida rápida,60,14,840,En línea,Mujer,Noche
+787,3/25/2023,Tostadas,Comida rápida,20,2,40,Efectivo,Mujer,Tarde
+788,8/13/2022,Jugo natural,Bebidas,25,7,175,En línea,Hombre,Tarde
+789,08-03-2022,Jugo natural,Bebidas,25,7,175,Efectivo,Hombre,Mañana
+790,7/20/2022,Empanada,Comida rápida,20,3,60,Efectivo,Mujer,Atardecer
+791,04-07-2022,Mini hamburguesa,Comida rápida,20,3,60,,Hombre,Medianoche
+792,2/25/2023,Mini hamburguesa,Comida rápida,20,2,40,Efectivo,Mujer,Mañana
+793,8/30/2022,Sándwich,Comida rápida,60,6,360,Efectivo,Mujer,Noche
+794,10-02-2022,Jugo natural,Bebidas,25,5,125,En línea,Hombre,Tarde
+795,01-10-2023,Mini hamburguesa,Comida rápida,20,9,180,Efectivo,Hombre,Atardecer
+796,6/25/2022,Jugo natural,Bebidas,25,14,350,En línea,Hombre,Noche
+797,11/26/2022,Café frío,Bebidas,40,11,440,Efectivo,Hombre,Noche
+798,5/22/2022,Hamburguesa clasica,Comida rápida,50,12,600,,Hombre,Noche
+799,01-11-2023,Empanada,Comida rápida,20,1,20,En línea,Mujer,Noche
+800,11-06-2022,Café frío,Bebidas,40,14,560,Efectivo,Hombre,Noche
+801,4/28/2022,Tostadas,Comida rápida,20,7,140,Efectivo,Mujer,Atardecer
+802,1/23/2023,Sándwich,Comida rápida,60,7,420,En línea,Mujer,Tarde
+803,8/27/2022,Mini hamburguesa,Comida rápida,20,5,100,,Hombre,Noche
+804,10-11-2022,Café frío,Bebidas,40,12,480,En línea,Mujer,Noche
+805,05-08-2022,Jugo natural,Bebidas,25,1,25,En línea,Hombre,Tarde
+806,5/23/2022,Mini hamburguesa,Comida rápida,20,3,60,En línea,Hombre,Atardecer
+807,6/13/2022,Hamburguesa clasica,Comida rápida,50,1,50,En línea,Mujer,Medianoche
+808,9/21/2022,Empanada,Comida rápida,20,1,20,En línea,Hombre,Mañana
+809,12-12-2022,Empanada,Comida rápida,20,10,200,En línea,Hombre,Atardecer
+810,12/27/2022,Mini hamburguesa,Comida rápida,20,3,60,En línea,Hombre,Mañana
+811,03-02-2023,Tostadas,Comida rápida,20,13,260,Efectivo,Hombre,Tarde
+812,08-08-2022,Empanada,Comida rápida,20,5,100,Efectivo,Hombre,Tarde
+813,10/13/2022,Empanada,Comida rápida,20,10,200,En línea,Hombre,Tarde
+814,10-05-2022,Mini hamburguesa,Comida rápida,20,13,260,Efectivo,Mujer,Medianoche
+815,4/20/2022,Café frío,Bebidas,40,12,480,En línea,Mujer,Tarde
+816,01-11-2023,Jugo natural,Bebidas,25,11,275,Efectivo,Hombre,Mañana
+817,5/21/2022,Tostadas,Comida rápida,20,12,240,Efectivo,Mujer,Atardecer
+818,2/28/2023,Hamburguesa clasica,Comida rápida,50,6,300,Efectivo,Hombre,Noche
+819,10-12-2022,Mini hamburguesa,Comida rápida,20,10,200,Efectivo,Hombre,Atardecer
+820,2/24/2023,Tostadas,Comida rápida,20,3,60,,Hombre,Medianoche
+821,7/24/2022,Tostadas,Comida rápida,20,12,240,Efectivo,Mujer,Medianoche
+822,6/17/2022,Empanada,Comida rápida,20,12,240,En línea,Hombre,Mañana
+823,2/13/2023,Empanada,Comida rápida,20,11,220,En línea,Hombre,Medianoche
+824,1/18/2023,Mini hamburguesa,Comida rápida,20,2,40,En línea,Mujer,Atardecer
+825,10/30/2022,Empanada,Comida rápida,20,14,280,Efectivo,Mujer,Mañana
+826,12-02-2022,Sándwich,Comida rápida,60,15,900,Efectivo,Mujer,Noche
+827,01-06-2023,Sándwich,Comida rápida,60,12,720,Efectivo,Hombre,Medianoche
+828,8/18/2022,Empanada,Comida rápida,20,6,120,Efectivo,Hombre,Atardecer
+829,9/19/2022,Café frío,Bebidas,40,6,240,Efectivo,Hombre,Noche
+830,11/28/2022,Café frío,Bebidas,40,9,360,,Hombre,Noche
+831,08-01-2022,Hamburguesa clasica,Comida rápida,50,5,250,En línea,Mujer,Mañana
+832,06-06-2022,Jugo natural,Bebidas,25,4,100,Efectivo,Hombre,Mañana
+833,09-01-2022,Empanada,Comida rápida,20,2,40,En línea,Mujer,Atardecer
+834,5/25/2022,Jugo natural,Bebidas,25,14,350,Efectivo,Hombre,Atardecer
+835,9/27/2022,Jugo natural,Bebidas,25,7,175,En línea,Hombre,Tarde
+836,8/31/2022,Mini hamburguesa,Comida rápida,20,2,40,Efectivo,Mujer,Medianoche
+837,5/19/2022,Tostadas,Comida rápida,20,7,140,Efectivo,Hombre,Medianoche
+838,7/31/2022,Café frío,Bebidas,40,9,360,En línea,Mujer,Mañana
+839,05-08-2022,Jugo natural,Bebidas,25,4,100,Efectivo,Mujer,Tarde
+840,2/18/2023,Café frío,Bebidas,40,15,600,,Mujer,Medianoche
+841,02-03-2023,Mini hamburguesa,Comida rápida,20,9,180,Efectivo,Hombre,Noche
+842,5/25/2022,Empanada,Comida rápida,20,2,40,Efectivo,Mujer,Atardecer
+843,07-04-2022,Jugo natural,Bebidas,25,1,25,Efectivo,Mujer,Mañana
+844,05-04-2022,Jugo natural,Bebidas,25,13,325,Efectivo,Hombre,Mañana
+845,07-01-2022,Café frío,Bebidas,40,6,240,En línea,Mujer,Atardecer
+846,4/20/2022,Tostadas,Comida rápida,20,5,100,En línea,Hombre,Tarde
+847,8/14/2022,Empanada,Comida rápida,20,11,220,En línea,Hombre,Medianoche
+848,11-10-2022,Hamburguesa clasica,Comida rápida,50,9,450,Efectivo,Hombre,Noche
+849,11-03-2022,Café frío,Bebidas,40,10,400,Efectivo,Mujer,Noche
+850,8/20/2022,Mini hamburguesa,Comida rápida,20,3,60,En línea,Mujer,Tarde
+851,1/28/2023,Tostadas,Comida rápida,20,15,300,En línea,Mujer,Noche
+852,05-05-2022,Jugo natural,Bebidas,25,8,200,En línea,Hombre,Noche
+853,2/17/2023,Café frío,Bebidas,40,3,120,En línea,Mujer,Medianoche
+854,10/14/2022,Café frío,Bebidas,40,14,560,En línea,Mujer,Noche
+855,10/23/2022,Mini hamburguesa,Comida rápida,20,5,100,En línea,Hombre,Atardecer
+856,05-04-2022,Tostadas,Comida rápida,20,11,220,Efectivo,Mujer,Noche
+857,11-08-2022,Jugo natural,Bebidas,25,14,350,En línea,Mujer,Atardecer
+858,11/22/2022,Café frío,Bebidas,40,9,360,Efectivo,Hombre,Atardecer
+859,10-08-2022,Sándwich,Comida rápida,60,11,660,Efectivo,Mujer,Medianoche
+860,7/16/2022,Café frío,Bebidas,40,5,200,Efectivo,Hombre,Noche
+861,1/24/2023,Jugo natural,Bebidas,25,8,200,Efectivo,Mujer,Noche
+862,03-10-2023,Hamburguesa clasica,Comida rápida,50,7,350,En línea,Hombre,Noche
+863,09-08-2022,Hamburguesa clasica,Comida rápida,50,9,450,En línea,Hombre,Noche
+864,8/20/2022,Café frío,Bebidas,40,9,360,En línea,Hombre,Mañana
+865,1/23/2023,Jugo natural,Bebidas,25,6,150,Efectivo,Mujer,Noche
+866,8/13/2022,Hamburguesa clasica,Comida rápida,50,10,500,En línea,Hombre,Medianoche
+867,1/26/2023,Hamburguesa clasica,Comida rápida,50,15,750,Efectivo,Hombre,Medianoche
+868,8/17/2022,Tostadas,Comida rápida,20,13,260,Efectivo,Mujer,Atardecer
+869,6/26/2022,Empanada,Comida rápida,20,9,180,En línea,Hombre,Medianoche
+870,10/31/2022,Café frío,Bebidas,40,5,200,En línea,Mujer,Tarde
+871,12-07-2022,Mini hamburguesa,Comida rápida,20,14,280,,Mujer,Atardecer
+872,7/14/2022,Sándwich,Comida rápida,60,12,720,Efectivo,Hombre,Tarde
+873,05-09-2022,Jugo natural,Bebidas,25,1,25,En línea,Hombre,Noche
+874,05-09-2022,Café frío,Bebidas,40,4,160,Efectivo,Hombre,Medianoche
+875,08-05-2022,Mini hamburguesa,Comida rápida,20,15,300,Efectivo,Hombre,Atardecer
+876,06-10-2022,Café frío,Bebidas,40,8,320,En línea,Mujer,Atardecer
+877,10/27/2022,Jugo natural,Bebidas,25,14,350,Efectivo,Mujer,Tarde
+878,08-12-2022,Sándwich,Comida rápida,60,6,360,En línea,Hombre,Atardecer
+879,11-06-2022,Café frío,Bebidas,40,9,360,Efectivo,Mujer,Atardecer
+880,6/25/2022,Jugo natural,Bebidas,25,5,125,Efectivo,Mujer,Mañana
+881,5/25/2022,Sándwich,Comida rápida,60,2,120,Efectivo,Hombre,Medianoche
+882,4/23/2022,Empanada,Comida rápida,20,9,180,En línea,Hombre,Mañana
+883,8/24/2022,Tostadas,Comida rápida,20,5,100,En línea,Mujer,Medianoche
+884,03-01-2023,Mini hamburguesa,Comida rápida,20,12,240,En línea,Hombre,Noche
+885,10/16/2022,Jugo natural,Bebidas,25,4,100,Efectivo,Hombre,Atardecer
+886,7/21/2022,Jugo natural,Bebidas,25,4,100,Efectivo,Mujer,Noche
+887,10/24/2022,Tostadas,Comida rápida,20,3,60,Efectivo,Hombre,Mañana
+888,09-05-2022,Mini hamburguesa,Comida rápida,20,8,160,Efectivo,Hombre,Atardecer
+889,04-12-2022,Mini hamburguesa,Comida rápida,20,10,200,En línea,Hombre,Medianoche
+890,03-03-2023,Jugo natural,Bebidas,25,5,125,Efectivo,Mujer,Mañana
+891,12/27/2022,Café frío,Bebidas,40,11,440,Efectivo,Hombre,Medianoche
+892,7/14/2022,Jugo natural,Bebidas,25,7,175,En línea,Mujer,Atardecer
+893,7/13/2022,Jugo natural,Bebidas,25,12,300,Efectivo,Mujer,Tarde
+894,3/19/2023,Sándwich,Comida rápida,60,15,900,Efectivo,Hombre,Mañana
+895,01-03-2023,Jugo natural,Bebidas,25,11,275,Efectivo,Hombre,Tarde
+896,10/30/2022,Tostadas,Comida rápida,20,13,260,Efectivo,Hombre,Noche
+897,8/22/2022,Tostadas,Comida rápida,20,6,120,En línea,Hombre,Mañana
+898,03-02-2023,Hamburguesa clasica,Comida rápida,50,8,400,Efectivo,Hombre,Tarde
+899,1/24/2023,Tostadas,Comida rápida,20,7,140,Efectivo,Hombre,Medianoche
+900,12-07-2022,Jugo natural,Bebidas,25,9,225,En línea,Hombre,Tarde
+901,12/24/2022,Mini hamburguesa,Comida rápida,20,7,140,En línea,Mujer,Mañana
+902,11/23/2022,Hamburguesa clasica,Comida rápida,50,4,200,En línea,Hombre,Tarde
+903,01-01-2023,Tostadas,Comida rápida,20,15,300,En línea,Hombre,Noche
+904,03-12-2023,Tostadas,Comida rápida,20,4,80,Efectivo,Mujer,Medianoche
+905,12/13/2022,Hamburguesa clasica,Comida rápida,50,15,750,Efectivo,Mujer,Medianoche
+906,04-04-2022,Sándwich,Comida rápida,60,15,900,Efectivo,Hombre,Tarde
+907,10/19/2022,Café frío,Bebidas,40,4,160,,Mujer,Medianoche
+908,03-06-2023,Sándwich,Comida rápida,60,7,420,Efectivo,Mujer,Noche
+909,2/21/2023,Café frío,Bebidas,40,12,480,En línea,Mujer,Mañana
+910,10-09-2022,Empanada,Comida rápida,20,1,20,Efectivo,Mujer,Tarde
+911,04-09-2022,Sándwich,Comida rápida,60,1,60,Efectivo,Hombre,Atardecer
+912,9/17/2022,Tostadas,Comida rápida,20,6,120,Efectivo,Hombre,Atardecer
+913,2/15/2023,Hamburguesa clasica,Comida rápida,50,15,750,En línea,Hombre,Atardecer
+914,03-01-2023,Sándwich,Comida rápida,60,14,840,Efectivo,Hombre,Noche
+915,10-07-2022,Café frío,Bebidas,40,7,280,En línea,Hombre,Tarde
+916,11/17/2022,Café frío,Bebidas,40,15,600,,Mujer,Tarde
+917,5/15/2022,Mini hamburguesa,Comida rápida,20,15,300,En línea,Hombre,Atardecer
+918,11-12-2022,Empanada,Comida rápida,20,6,120,Efectivo,Hombre,Atardecer
+919,01-03-2023,Mini hamburguesa,Comida rápida,20,8,160,En línea,Mujer,Atardecer
+920,07-12-2022,Hamburguesa clasica,Comida rápida,50,13,650,En línea,Hombre,Atardecer
+921,9/21/2022,Mini hamburguesa,Comida rápida,20,14,280,Efectivo,Hombre,Medianoche
+922,6/13/2022,Hamburguesa clasica,Comida rápida,50,5,250,En línea,Mujer,Atardecer
+923,5/30/2022,Café frío,Bebidas,40,3,120,En línea,Hombre,Mañana
+924,12/17/2022,Empanada,Comida rápida,20,14,280,Efectivo,Hombre,Tarde
+925,04-10-2022,Hamburguesa clasica,Comida rápida,50,4,200,En línea,Mujer,Tarde
+926,2/27/2023,Hamburguesa clasica,Comida rápida,50,15,750,Efectivo,Mujer,Tarde
+927,12-02-2022,Café frío,Bebidas,40,6,240,,Mujer,Atardecer
+928,04-07-2022,Sándwich,Comida rápida,60,11,660,En línea,Hombre,Atardecer
+929,06-06-2022,Hamburguesa clasica,Comida rápida,50,9,450,En línea,Mujer,Noche
+930,11/27/2022,Jugo natural,Bebidas,25,10,250,En línea,Hombre,Noche
+931,6/26/2022,Tostadas,Comida rápida,20,15,300,Efectivo,Hombre,Tarde
+932,10/18/2022,Sándwich,Comida rápida,60,9,540,En línea,Hombre,Tarde
+933,1/21/2023,Jugo natural,Bebidas,25,15,375,En línea,Mujer,Tarde
+934,9/19/2022,Café frío,Bebidas,40,4,160,Efectivo,Mujer,Tarde
+935,2/17/2023,Sándwich,Comida rápida,60,12,720,Efectivo,Hombre,Medianoche
+936,08-10-2022,Empanada,Comida rápida,20,2,40,,Hombre,Medianoche
+937,6/22/2022,Empanada,Comida rápida,20,4,80,Efectivo,Hombre,Noche
+938,08-10-2022,Jugo natural,Bebidas,25,14,350,Efectivo,Hombre,Atardecer
+939,2/19/2023,Mini hamburguesa,Comida rápida,20,15,300,En línea,Hombre,Medianoche
+940,02-07-2023,Jugo natural,Bebidas,25,14,350,En línea,Mujer,Medianoche
+941,02-10-2023,Café frío,Bebidas,40,10,400,En línea,Mujer,Mañana
+942,7/20/2022,Hamburguesa clasica,Comida rápida,50,6,300,Efectivo,Hombre,Noche
+943,6/30/2022,Mini hamburguesa,Comida rápida,20,6,120,Efectivo,Mujer,Noche
+944,05-12-2022,Tostadas,Comida rápida,20,2,40,Efectivo,Hombre,Medianoche
+945,5/15/2022,Café frío,Bebidas,40,2,80,En línea,Mujer,Tarde
+946,2/21/2023,Sándwich,Comida rápida,60,8,480,Efectivo,Hombre,Medianoche
+947,8/16/2022,Tostadas,Comida rápida,20,11,220,En línea,Hombre,Noche
+948,1/16/2023,Sándwich,Comida rápida,60,10,600,En línea,Hombre,Atardecer
+949,01-07-2023,Empanada,Comida rápida,20,1,20,Efectivo,Mujer,Atardecer
+950,9/25/2022,Hamburguesa clasica,Comida rápida,50,6,300,En línea,Mujer,Atardecer
+951,11-11-2022,Empanada,Comida rápida,20,11,220,Efectivo,Mujer,Tarde
+952,9/24/2022,Tostadas,Comida rápida,20,14,280,Efectivo,Mujer,Atardecer
+953,11-10-2022,Sándwich,Comida rápida,60,2,120,En línea,Mujer,Tarde
+954,1/31/2023,Tostadas,Comida rápida,20,3,60,Efectivo,Mujer,Medianoche
+955,1/27/2023,Jugo natural,Bebidas,25,7,175,En línea,Hombre,Tarde
+956,4/30/2022,Hamburguesa clasica,Comida rápida,50,13,650,En línea,Hombre,Mañana
+957,02-08-2023,Empanada,Comida rápida,20,3,60,En línea,Mujer,Medianoche
+958,5/22/2022,Sándwich,Comida rápida,60,11,660,En línea,Mujer,Noche
+959,11/28/2022,Mini hamburguesa,Comida rápida,20,8,160,En línea,Mujer,Medianoche
+960,08-12-2022,Jugo natural,Bebidas,25,15,375,En línea,Mujer,Atardecer
+961,3/14/2023,Hamburguesa clasica,Comida rápida,50,13,650,Efectivo,Hombre,Noche
+962,5/18/2022,Hamburguesa clasica,Comida rápida,50,13,650,En línea,Mujer,Tarde
+963,10-05-2022,Mini hamburguesa,Comida rápida,20,6,120,Efectivo,Mujer,Mañana
+964,05-07-2022,Café frío,Bebidas,40,8,320,Efectivo,Hombre,Atardecer
+965,10-08-2022,Hamburguesa clasica,Comida rápida,50,5,250,En línea,Mujer,Noche
+966,3/19/2023,Empanada,Comida rápida,20,11,220,En línea,Mujer,Mañana
+967,6/29/2022,Café frío,Bebidas,40,14,560,Efectivo,Hombre,Tarde
+968,08-09-2022,Café frío,Bebidas,40,15,600,Efectivo,Mujer,Mañana
+969,11-06-2022,Café frío,Bebidas,40,11,440,Efectivo,Hombre,Mañana
+970,11/21/2022,Tostadas,Comida rápida,20,5,100,En línea,Mujer,Tarde
+971,10-02-2022,Hamburguesa clasica,Comida rápida,50,2,100,Efectivo,Mujer,Mañana
+972,03-11-2023,Tostadas,Comida rápida,20,1,20,Efectivo,Mujer,Tarde
+973,06-07-2022,Jugo natural,Bebidas,25,1,25,,Mujer,Mañana
+974,1/28/2023,Mini hamburguesa,Comida rápida,20,13,260,En línea,Hombre,Tarde
+975,1/15/2023,Tostadas,Comida rápida,20,1,20,Efectivo,Hombre,Medianoche
+976,4/17/2022,Jugo natural,Bebidas,25,11,275,,Mujer,Mañana
+977,01-05-2023,Tostadas,Comida rápida,20,1,20,Efectivo,Hombre,Atardecer
+978,10-08-2022,Hamburguesa clasica,Comida rápida,50,2,100,En línea,Hombre,Noche
+979,5/21/2022,Tostadas,Comida rápida,20,13,260,Efectivo,Mujer,Medianoche
+980,6/20/2022,Mini hamburguesa,Comida rápida,20,9,180,En línea,Hombre,Mañana
+981,1/22/2023,Empanada,Comida rápida,20,15,300,En línea,Hombre,Medianoche
+982,3/30/2023,Jugo natural,Bebidas,25,14,350,Efectivo,Mujer,Noche
+983,3/17/2023,Café frío,Bebidas,40,10,400,,Mujer,Noche
+984,01-07-2023,Hamburguesa clasica,Comida rápida,50,3,150,Efectivo,Hombre,Tarde
+985,6/14/2022,Hamburguesa clasica,Comida rápida,50,1,50,Efectivo,Mujer,Tarde
+986,4/30/2022,Jugo natural,Bebidas,25,13,325,En línea,Hombre,Noche
+987,01-04-2023,Mini hamburguesa,Comida rápida,20,3,60,Efectivo,Mujer,Atardecer
+988,01-03-2023,Hamburguesa clasica,Comida rápida,50,13,650,,Mujer,Noche
+989,10-11-2022,Café frío,Bebidas,40,13,520,Efectivo,Hombre,Tarde
+990,11/24/2022,Mini hamburguesa,Comida rápida,20,10,200,En línea,Mujer,Mañana
+991,1/18/2023,Sándwich,Comida rápida,60,7,420,Efectivo,Mujer,Noche
+992,10/21/2022,Sándwich,Comida rápida,60,5,300,Efectivo,Hombre,Mañana
+993,7/17/2022,Hamburguesa clasica,Comida rápida,50,3,150,En línea,Mujer,Noche
+994,11-01-2022,Empanada,Comida rápida,20,2,40,En línea,Mujer,Atardecer
+995,6/18/2022,Jugo natural,Bebidas,25,1,25,En línea,Hombre,Noche
+996,3/19/2023,Hamburguesa clasica,Comida rápida,50,10,500,,Mujer,Atardecer
+997,9/20/2022,Sándwich,Comida rápida,60,7,420,,Hombre,Atardecer
+998,1/26/2023,Sándwich,Comida rápida,60,13,780,,Hombre,Atardecer
+999,8/27/2022,Empanada,Comida rápida,20,5,100,,Mujer,Tarde
+1000,5/29/2022,Tostadas,Comida rápida,20,3,60,En línea,Mujer,Medianoche
