@@ -24,13 +24,13 @@ Este repositorio incluye notebooks y scripts que puedes ejecutar para replicar e
 
 El DataFrame que estamos analizando proviene de un restaurante local y cuenta con 1000 registros distribuidos en 10 columnas. Cada fila representa una transacción de venta, y las columnas se describen de la siguiente manera:
 
-id_pedido: Identificador único de cada transacción.
-fecha: La fecha en que se realizó la transacción (originalmente en formato texto, que se recomienda convertir a datetime para análisis temporal).
-nombre_articulo: Nombre del artículo vendido, donde destacan ítems como Café frío, Jugo natural, Empanada, entre otros.
-tipo_articulo: Categoría del artículo, principalmente clasificados en dos grupos: Comida rápida y Bebidas. Se observa que la mayoría (686 registros) corresponde a comida rápida, mientras que 314 son bebidas.
-precio_articulo: Precio unitario del artículo, con valores que varían entre 20 y 60, donde el precio más común es 20.
-cantidad: Número de unidades vendidas en cada transacción, con una media de alrededor de 8 artículos por pedido.
-monto_transaccion: Valor total de la transacción, calculado como el producto de precio_articulo y cantidad. Los montos varían considerablemente, con una media de 275.23 y mediana de 240, lo que sugiere cierta asimetría en la distribución.
-tipo_transaccion: Forma de pago utilizada, ya sea Efectivo (476 transacciones) o En línea (417 transacciones), aunque esta columna presenta algunos valores nulos.
-recibido_por: Género de la persona que atendió la transacción, casi equilibrado entre Hombre (512) y Mujer (488).
-hora_venta: Franja horaria en la que se realizó la venta, categorizada en Mañana, Tarde, Atardecer, Noche y Medianoche, mostrando una distribución relativamente uniforme con ligeras variaciones.
+- id_pedido: Identificador único de cada transacción.
+- fecha: La fecha en que se realizó la transacción (originalmente en formato texto, que se recomienda convertir a datetime para análisis temporal).
+- nombre_articulo: Nombre del artículo vendido, donde destacan ítems como Café frío, Jugo natural, Empanada, entre otros.
+- tipo_articulo: Categoría del artículo, principalmente clasificados en dos grupos: Comida rápida y Bebidas. Se observa que la mayoría (686 registros) corresponde a comida rápida, mientras que 314 son bebidas.
+- precio_articulo: Precio unitario del artículo, con valores que varían entre 20 y 60, donde el precio más común es 20.
+- cantidad: Número de unidades vendidas en cada transacción, con una media de alrededor de 8 artículos por pedido.
+- monto_transaccion: Valor total de la transacción, calculado como el producto de precio_articulo y cantidad. Los montos varían considerablemente, con una media de 275.23 y mediana de 240, lo que sugiere cierta asimetría en la distribución.
+- tipo_transaccion: Forma de pago utilizada, ya sea Efectivo (476 transacciones) o En línea (417 transacciones), aunque esta columna presenta algunos valores nulos.
+- recibido_por: Género de la persona que atendió la transacción, casi equilibrado entre Hombre (512) y Mujer (488).
+- hora_venta: Franja horaria en la que se realizó la venta, categorizada en Mañana, Tarde, Atardecer, Noche y Medianoche, mostrando una distribución relativamente uniforme con ligeras variaciones.
