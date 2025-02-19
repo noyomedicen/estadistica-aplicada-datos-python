@@ -17,7 +17,7 @@ Este repositorio incluye notebooks y scripts que puedes ejecutar para replicar e
 ## Contenido del Repositorio
 
 - **README.md:** Esta documentación.
-- **data/**: Carpeta que contiene el dataset (transacciones de un restaurante local).
+- **ventas_cafeteria.csv:** el dataset (transacciones de un restaurante local).
 - **notebooks/**: Notebooks Jupyter con el análisis detallado.
 
 ## Descripción del csv
